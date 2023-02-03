@@ -15,7 +15,14 @@ const Navbar = () => {
   return (
     <>
       <div className={styles.navbar}>
-        <h2 className={styles.logo}>{'arjun.v()'}</h2>
+        <h2
+          className={styles.logo}
+          onClick={() => {
+            location.href = '/';
+          }}
+        >
+          {'arjun.v()'}
+        </h2>
         <div className={styles.desktopitems}>
           {NavLinks.map((link) => (
             <NavLink
