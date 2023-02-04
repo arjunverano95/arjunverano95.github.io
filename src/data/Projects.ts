@@ -13,7 +13,7 @@ export const Projects: ProjectsType[] = [
     image: 'https://i.imgur.com/uGvn4yX.jpg',
     GitHub: 'https://github.com/arjunverano95/goddess-story-library',
     hosted:
-      'https://drive.google.com/file/d/1jSvF128oKd4pizkIhjIpiZFEoBw7kRCB/view',
+      'https://drive.google.com/file/d/1jSvF128oKd4pizkIhjIpiZFEoBw7kRCB/view?usp=share_link',
   },
   {
     title: 'Arcana Ebook Reader',
@@ -29,5 +29,13 @@ export const Projects: ProjectsType[] = [
     image: 'https://i.imgur.com/di8Aa9W.jpg',
     GitHub: 'https://github.com/arjunverano95/arjunverano95.github.io',
     hosted: 'https://arjunverano95.github.io/',
+  },
+  {
+    title: 'Chess Game',
+    description: `A simple chess game build using C# and .NET Framework 3.5`,
+    image: 'https://i.imgur.com/zJdNUem.jpg',
+    GitHub: 'https://github.com/arjunverano95/dotnet-chess',
+    hosted:
+      'https://drive.google.com/file/d/1693LPLc_buN8RY3KPRb1MXwKGKACqQsl/view?usp=share_link',
   },
 ];
