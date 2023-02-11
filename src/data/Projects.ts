@@ -12,8 +12,7 @@ export const Projects: ProjectsType[] = [
     description: `A simple and easy to use viewer and library of Goddess story cards. It is built with Expo v47 (bare), React Native, Typescript, RNE v4`,
     image: 'https://i.imgur.com/uGvn4yX.jpg',
     GitHub: 'https://github.com/arjunverano95/goddess-story-library',
-    hosted:
-      'https://drive.google.com/file/d/1jSvF128oKd4pizkIhjIpiZFEoBw7kRCB/view?usp=share_link',
+    hosted: 'https://arjunverano95.github.io/goddess-story-library/', //'https://drive.google.com/file/d/1jSvF128oKd4pizkIhjIpiZFEoBw7kRCB/view?usp=share_link',
   },
   {
     title: 'Arcana Ebook Reader',
