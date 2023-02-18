@@ -149,7 +149,7 @@
       "SetNumber": "NS-01",
       "CardNumber": "017",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/Y5H8gBY.jpg"
     },
@@ -1328,7 +1328,7 @@
       "SetNumber": "NS-01",
       "CardNumber": 148,
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/3wVRJP2.jpg"
     },
@@ -1337,7 +1337,7 @@
       "SetNumber": "NS-01",
       "CardNumber": 149,
       "CharacterName": "Sakura Matou",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/tybztSC.jpg"
     },
@@ -1346,7 +1346,7 @@
       "SetNumber": "NS-01",
       "CardNumber": 150,
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/kaleid liner PRISMA☆ILLYA",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/wZ7Z4ww.jpg"
     },
@@ -1355,7 +1355,7 @@
       "SetNumber": "NS-01",
       "CardNumber": 151,
       "CharacterName": "Jeanne d'Arc (Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/AdMi2DX.jpg"
     },
@@ -1445,7 +1445,7 @@
       "SetNumber": "NS-02",
       "CardNumber": "007",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/4wRAEty.jpg"
     },
@@ -1472,7 +1472,7 @@
       "SetNumber": "NS-02",
       "CardNumber": "010",
       "CharacterName": "Nero Claudius",
-      "SeriesName": "Fate/Extra",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/U5wvR6I.jpg"
     },
@@ -1562,7 +1562,7 @@
       "SetNumber": "NS-02",
       "CardNumber": "020",
       "CharacterName": "Rikka Takarada",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/T1GN8p6.jpg"
     },
@@ -1697,7 +1697,7 @@
       "SetNumber": "NS-02",
       "CardNumber": "035",
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/kaleid liner PRISMA☆ILLYA",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/nDaQslz.jpg"
     },
@@ -2084,7 +2084,7 @@
       "SetNumber": "NS-02",
       "CardNumber": "078",
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/kgXq85q.jpg"
     },
@@ -2606,7 +2606,7 @@
       "SetNumber": "NS-03",
       "CardNumber": "010",
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/LGMDHNE.jpg"
     },
@@ -2615,7 +2615,7 @@
       "SetNumber": "NS-03",
       "CardNumber": "011",
       "CharacterName": "Sakura Matou",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/4EjGpyu.jpg"
     },
@@ -2795,7 +2795,7 @@
       "SetNumber": "NS-03",
       "CardNumber": "031",
       "CharacterName": "Abigail Williams",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/ItfJI09.jpg"
     },
@@ -2804,7 +2804,7 @@
       "SetNumber": "NS-03",
       "CardNumber": "032",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/X0q1EX7.jpg"
     },
@@ -2813,7 +2813,7 @@
       "SetNumber": "NS-03",
       "CardNumber": "033",
       "CharacterName": "Jeanne d'Arc",
-      "SeriesName": "Fate/Apocrypha",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/hM9d8gO.jpg"
     },
@@ -2822,7 +2822,7 @@
       "SetNumber": "NS-03",
       "CardNumber": "034",
       "CharacterName": "Medusa",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/8bHACBD.jpg"
     },
@@ -3146,7 +3146,7 @@
       "SetNumber": "NS-03",
       "CardNumber": "070",
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/kaleid liner PRISMA☆ILLYA",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/y9YrVU3.jpg"
     },
@@ -3173,7 +3173,7 @@
       "SetNumber": "NS-04",
       "CardNumber": "001",
       "CharacterName": "Melusine",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/If2CpR4.jpg"
     },
@@ -3659,7 +3659,7 @@
       "SetNumber": "NS-04",
       "CardNumber": "055",
       "CharacterName": "Morgan le Fay",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/UDJoo2k.jpg"
     },
@@ -3668,7 +3668,7 @@
       "SetNumber": "NS-04",
       "CardNumber": "056",
       "CharacterName": "Artoria Avalon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/mDgatGR.jpg"
     },
@@ -3938,7 +3938,7 @@
       "SetNumber": "NS-05",
       "CardNumber": "014",
       "CharacterName": "Baobhan Sith",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/FBBzxeu.jpg"
     },
@@ -4172,7 +4172,7 @@
       "SetNumber": "NS-05",
       "CardNumber": "040",
       "CharacterName": "Tomoe Gozen",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/6NjvTvi.jpg"
     },
@@ -4487,7 +4487,7 @@
       "SetNumber": "NS-06",
       "CardNumber": "003",
       "CharacterName": "Amor (Caren)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/0j8cXQJ.jpg"
     },
@@ -4712,7 +4712,7 @@
       "SetNumber": "NS-06",
       "CardNumber": "028",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/B4FCITj.jpg"
     },
@@ -4721,7 +4721,7 @@
       "SetNumber": "NS-06",
       "CardNumber": "029",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/ZBlBWXj.jpg"
     },
@@ -4973,7 +4973,7 @@
       "SetNumber": "NS-06",
       "CardNumber": "057",
       "CharacterName": "Medusa",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/l9zNJLh.jpg"
     },
@@ -5180,7 +5180,7 @@
       "SetNumber": "NS-07",
       "CardNumber": "008",
       "CharacterName": "Jeanne d'Arc (Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/obfcXWi.jpg"
     },
@@ -5207,7 +5207,7 @@
       "SetNumber": "NS-07",
       "CardNumber": "011",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/HYRzWe0.jpg"
     },
@@ -6008,7 +6008,7 @@
       "SetNumber": "NS-02-M01",
       "CardNumber": "028",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/9dsvJ4M.jpg"
     },
@@ -6323,7 +6323,7 @@
       "SetNumber": "NS-02-M01",
       "CardNumber": "063",
       "CharacterName": "Nero Claudius",
-      "SeriesName": "Fate/Extra",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/pjnHcTP.jpg"
     },
@@ -6359,7 +6359,7 @@
       "SetNumber": "NS-02-M01",
       "CardNumber": "067",
       "CharacterName": "Rikka Takarada",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/E5Gklrh.jpg"
     },
@@ -6953,7 +6953,7 @@
       "SetNumber": "NS-02-M01",
       "CardNumber": 133,
       "CharacterName": "Ishtar",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/bO6KIm3.jpg"
     },
@@ -6962,7 +6962,7 @@
       "SetNumber": "NS-02-M01",
       "CardNumber": 134,
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/eH1FZvB.jpg"
     },
@@ -6971,7 +6971,7 @@
       "SetNumber": "NS-02-M01",
       "CardNumber": 135,
       "CharacterName": "Tamamo no mae",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/5kn7m4m.jpg"
     },
@@ -7178,7 +7178,7 @@
       "SetNumber": "NS-02-M01",
       "CardNumber": 158,
       "CharacterName": "Miyu Edelfelt",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/cSzYSnw.jpg"
     },
@@ -7187,7 +7187,7 @@
       "SetNumber": "NS-02-M01",
       "CardNumber": 159,
       "CharacterName": "Chloe von Einzbern",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/gwTHXEv.jpg"
     },
@@ -7322,7 +7322,7 @@
       "SetNumber": "NS-02-M01",
       "CardNumber": 174,
       "CharacterName": "Akane Shinjo",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/SM2esMg.jpg"
     },
@@ -7538,7 +7538,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": "018",
       "CharacterName": "Abigail Williams",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/TD0bXaz.jpg"
     },
@@ -7754,7 +7754,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": "042",
       "CharacterName": "Rikka Takarada",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/jBNNVNI.jpg"
     },
@@ -7772,7 +7772,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": "044",
       "CharacterName": "Tomoe Gozen",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/hBk8gph.jpg"
     },
@@ -7934,7 +7934,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": "062",
       "CharacterName": "Merlin",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/pwSnMl8.jpg"
     },
@@ -8321,7 +8321,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": 105,
       "CharacterName": "Nero Claudius",
-      "SeriesName": "Fate/Extra",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/wCgeZ3u.jpg"
     },
@@ -8438,7 +8438,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": 118,
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/kaleid liner PRISMA☆ILLYA",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/MKQJW60.jpg"
     },
@@ -8474,7 +8474,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": 122,
       "CharacterName": "Jeanne d'Arc",
-      "SeriesName": "Fate/Apocrypha",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/ziCS1I3.jpg"
     },
@@ -8753,7 +8753,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": 153,
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/rxyJUNV.jpg"
     },
@@ -8771,7 +8771,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": 155,
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/UR4crSg.jpg"
     },
@@ -8780,7 +8780,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": 156,
       "CharacterName": "Sakura Matou",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/07DMIVW.jpg"
     },
@@ -8789,7 +8789,7 @@
       "SetNumber": "NS-02-M02",
       "CardNumber": 157,
       "CharacterName": "Okita Souji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/VQQa77M.jpg"
     },
@@ -9257,7 +9257,7 @@
       "SetNumber": "NS-02-M03",
       "CardNumber": "011",
       "CharacterName": "Artoria Pendragon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/A9wipxJ.jpg"
     },
@@ -9266,7 +9266,7 @@
       "SetNumber": "NS-02-M03",
       "CardNumber": "012",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/SX1a0HI.jpg"
     },
@@ -9662,7 +9662,7 @@
       "SetNumber": "NS-02-M03",
       "CardNumber": "056",
       "CharacterName": "Rikka Takarada",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/GBAKqs7.jpg"
     },
@@ -9824,7 +9824,7 @@
       "SetNumber": "NS-02-M03",
       "CardNumber": "002",
       "CharacterName": "Akane Shinjo",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/YZI0u0J.jpg"
     },
@@ -9833,7 +9833,7 @@
       "SetNumber": "NS-02-M03",
       "CardNumber": "003",
       "CharacterName": "Rikka Takarada",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/b5Y6aWZ.jpg"
     },
@@ -9887,7 +9887,7 @@
       "SetNumber": "NS-02-M03",
       "CardNumber": "009",
       "CharacterName": "Shuten Douji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/eo8uoFT.jpg"
     },
@@ -9896,7 +9896,7 @@
       "SetNumber": "NS-02-M03",
       "CardNumber": "010",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/Z8N7U1x.jpg"
     },
@@ -9905,7 +9905,7 @@
       "SetNumber": "NS-02-M03",
       "CardNumber": "011",
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/jQxkUH4.jpg"
     },
@@ -9914,7 +9914,7 @@
       "SetNumber": "NS-02-M03",
       "CardNumber": "012",
       "CharacterName": "Sakura Matou",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/Hgh5nys.jpg"
     },
@@ -10031,7 +10031,7 @@
       "SetNumber": "NS-02-M04",
       "CardNumber": "007",
       "CharacterName": "Gray",
-      "SeriesName": "Fate/Labyrinth",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/vUywNdx.jpg"
     },
@@ -10202,7 +10202,7 @@
       "SetNumber": "NS-02-M04",
       "CardNumber": "026",
       "CharacterName": "Nero Claudius",
-      "SeriesName": "Fate/Extra",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/smpBTKy.jpg"
     },
@@ -10211,7 +10211,7 @@
       "SetNumber": "NS-02-M04",
       "CardNumber": "027",
       "CharacterName": "Scathach",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/ZeAR5hz.jpg"
     },
@@ -10490,7 +10490,7 @@
       "SetNumber": "NS-02-M04",
       "CardNumber": "058",
       "CharacterName": "Scathach",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/PL33c5f.jpg"
     },
@@ -10499,7 +10499,7 @@
       "SetNumber": "NS-02-M04",
       "CardNumber": "059",
       "CharacterName": "Minamoto no Raikou",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/kLKYigf.jpg"
     },
@@ -10508,7 +10508,7 @@
       "SetNumber": "NS-02-M04",
       "CardNumber": "060",
       "CharacterName": "Frankenstein",
-      "SeriesName": "Fate/Apocrypha",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/L9yODEh.jpg"
     },
@@ -10715,7 +10715,7 @@
       "SetNumber": "NS-02-M04",
       "CardNumber": "011",
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/frWInB3.jpg"
     },
@@ -10940,7 +10940,7 @@
       "SetNumber": "NS-02-M05",
       "CardNumber": "024",
       "CharacterName": "Kama",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/FHjAtS6.jpg"
     },
@@ -11318,7 +11318,7 @@
       "SetNumber": "NS-02-M05",
       "CardNumber": "066",
       "CharacterName": "Helena Blavatsky",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/RQynYFU.jpg"
     },
@@ -11435,7 +11435,7 @@
       "SetNumber": "NS-02-M05",
       "CardNumber": "007",
       "CharacterName": "Okita Souji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/5iJ7aba.jpg"
     },
@@ -11444,7 +11444,7 @@
       "SetNumber": "NS-02-M05",
       "CardNumber": "008",
       "CharacterName": "Bradamante",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/5cnn0zz.jpg"
     },
@@ -11615,7 +11615,7 @@
       "SetNumber": "NS-02-M06",
       "CardNumber": "009",
       "CharacterName": "Akane Shinjo",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/o94dR6O.jpg"
     },
@@ -11705,7 +11705,7 @@
       "SetNumber": "NS-02-M06",
       "CardNumber": "019",
       "CharacterName": "Artoria Pendragon (Ruler)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/Wr0HS41.jpg"
     },
@@ -11714,7 +11714,7 @@
       "SetNumber": "NS-02-M06",
       "CardNumber": "020",
       "CharacterName": "Okita Souji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/xx57CJt.jpg"
     },
@@ -11723,7 +11723,7 @@
       "SetNumber": "NS-02-M06",
       "CardNumber": "021",
       "CharacterName": "Abigail Williams",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/7VFbXR3.jpg"
     },
@@ -12695,7 +12695,7 @@
       "SetNumber": "NS-02-M07",
       "CardNumber": "045",
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/zi7HV2B.jpg"
     },
@@ -13064,7 +13064,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": "002",
       "CharacterName": "Artoria Avalon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/s7TfqEe.jpg"
     },
@@ -13532,7 +13532,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": "054",
       "CharacterName": "Sakura Matou",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/bMWgi33.jpg"
     },
@@ -13928,7 +13928,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": "098",
       "CharacterName": "Rikka Takarada",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/Jc344rO.jpg"
     },
@@ -13964,7 +13964,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": 102,
       "CharacterName": "Okita Souji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/I31pM1m.jpg"
     },
@@ -14072,7 +14072,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": 114,
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/KiBr3OO.jpg"
     },
@@ -14081,7 +14081,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": 115,
       "CharacterName": "Medusa",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/0bNVocm.jpg"
     },
@@ -14090,7 +14090,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": 116,
       "CharacterName": "Nero Claudius",
-      "SeriesName": "Fate/EXTRA",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/zoRQmDW.jpg"
     },
@@ -14099,7 +14099,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": 117,
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/43F4S8I.jpg"
     },
@@ -14108,7 +14108,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": 118,
       "CharacterName": "Jeanne d'Arc",
-      "SeriesName": "Fate/Apocrypha",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/BWZ9B19.jpg"
     },
@@ -14801,7 +14801,7 @@
       "SetNumber": "NS-05-M01",
       "CardNumber": 195,
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/kaleid liner PRISMA☆ILLYA",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/7RbWmvs.jpg"
     },
@@ -14927,7 +14927,7 @@
       "SetNumber": "NS-05-M02",
       "CardNumber": "002",
       "CharacterName": "Sakura Matou",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/HoeiajQ.jpg"
     },
@@ -15197,7 +15197,7 @@
       "SetNumber": "NS-05-M02",
       "CardNumber": "032",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/gmFEdI9.jpg"
     },
@@ -15350,7 +15350,7 @@
       "SetNumber": "NS-05-M02",
       "CardNumber": "049",
       "CharacterName": "Jeanne d'Arc",
-      "SeriesName": "Fate/Apocrypha",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/mz5rtKu.jpg"
     },
@@ -15890,7 +15890,7 @@
       "SetNumber": "NS-05-M02",
       "CardNumber": "001",
       "CharacterName": "Abigail Williams",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/3Y4kGad.jpg"
     },
@@ -15899,7 +15899,7 @@
       "SetNumber": "NS-05-M02",
       "CardNumber": "002",
       "CharacterName": "Ereshkigal",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/9slmP47.jpg"
     },
@@ -15908,7 +15908,7 @@
       "SetNumber": "NS-05-M02",
       "CardNumber": "003",
       "CharacterName": "Kama",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/WysBBCh.jpg"
     },
@@ -16133,7 +16133,7 @@
       "SetNumber": "NS-05-M03",
       "CardNumber": "010",
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/UKm8BNk.jpg"
     },
@@ -16231,7 +16231,7 @@
       "Code": "NS05M03021",
       "SetNumber": "NS-05-M03",
       "CardNumber": "021",
-      "CharacterName": "Yumeko",
+      "CharacterName": "Yumeko Jabami",
       "SeriesName": "Kakegurui",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/B1fGj2q.jpg"
@@ -16322,7 +16322,7 @@
       "SetNumber": "NS-05-M03",
       "CardNumber": "031",
       "CharacterName": "Nero Claudius",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/6bZsv3Y.jpg"
     },
@@ -16511,7 +16511,7 @@
       "SetNumber": "NS-05-M03",
       "CardNumber": "052",
       "CharacterName": "Meltlilith",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/PByHYVw.jpg"
     },
@@ -16520,7 +16520,7 @@
       "SetNumber": "NS-05-M03",
       "CardNumber": "053",
       "CharacterName": "Jeanne d'Arc",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/94U3IJj.jpg"
     },
@@ -16529,7 +16529,7 @@
       "SetNumber": "NS-05-M03",
       "CardNumber": "054",
       "CharacterName": "Jeanne d'Arc (Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/aA1Ckre.jpg"
     },
@@ -17051,7 +17051,7 @@
       "SetNumber": "NS-05-M03",
       "CardNumber": "004",
       "CharacterName": "Katsushika Hokusai",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/3GjUuGD.jpg"
     },
@@ -17060,7 +17060,7 @@
       "SetNumber": "NS-05-M03",
       "CardNumber": "005",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/bOQuo33.jpg"
     },
@@ -17186,7 +17186,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "001",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/M28qSsq.jpg"
     },
@@ -17195,7 +17195,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "002",
       "CharacterName": "Jeanne d'Arc",
-      "SeriesName": "Fate/EXTELLA",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/swJ8jaP.jpg"
     },
@@ -17204,7 +17204,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "003",
       "CharacterName": "Meltlilith",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/fdtDXRw.jpg"
     },
@@ -17213,7 +17213,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "004",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/Zero",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/IcQcFiT.jpg"
     },
@@ -17222,7 +17222,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "005",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/Q4gjiaH.jpg"
     },
@@ -17231,7 +17231,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "006",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/F9PCQF3.jpg"
     },
@@ -17240,7 +17240,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "007",
       "CharacterName": "Altera",
-      "SeriesName": "Fate/EXTELLA",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/nFQ7xn5.jpg"
     },
@@ -17249,7 +17249,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "008",
       "CharacterName": "Nero Claudius",
-      "SeriesName": "Fate/Extra",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/hdc4NQ5.jpg"
     },
@@ -17258,7 +17258,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "009",
       "CharacterName": "Gray",
-      "SeriesName": "Fate/Labyrinth",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/x2rPBTA.jpg"
     },
@@ -17267,7 +17267,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "010",
       "CharacterName": "Tamamo no mae",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/IkbxKy5.jpg"
     },
@@ -17276,7 +17276,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "011",
       "CharacterName": "Ishtar",
-      "SeriesName": "Fate/Grand Order Babylonia",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/C7PMoh9.jpg"
     },
@@ -17285,7 +17285,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "012",
       "CharacterName": "Astolfo",
-      "SeriesName": "Fate/Apocrypha",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/YVxiKZA.jpg"
     },
@@ -17294,7 +17294,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "013",
       "CharacterName": "Okita Souji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/OLgPd5y.jpg"
     },
@@ -17303,7 +17303,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "014",
       "CharacterName": "Shiki Ryougi",
-      "SeriesName": "Fate/EXTRA",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/bnNgUmE.jpg"
     },
@@ -17312,7 +17312,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "015",
       "CharacterName": "Abigail Williams",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/rZmOIPX.jpg"
     },
@@ -17321,7 +17321,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "016",
       "CharacterName": "Ereshkigal",
-      "SeriesName": "Fate/Grand Order Babylonia",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/k3Q4scM.jpg"
     },
@@ -17330,7 +17330,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "017",
       "CharacterName": "Jeanne d'Arc (Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/Q4DactO.jpg"
     },
@@ -17339,7 +17339,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "018",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/HT7C7NS.jpg"
     },
@@ -17348,7 +17348,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "019",
       "CharacterName": "Artoria Avalon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/W36853v.jpg"
     },
@@ -17357,7 +17357,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "020",
       "CharacterName": "Miyamoto Musashi",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/gfuOQ9Y.jpg"
     },
@@ -17366,7 +17366,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "021",
       "CharacterName": "Scathach",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/FKmPsPh.jpg"
     },
@@ -17375,7 +17375,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "022",
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/kaleid liner PRISMA☆ILLYA",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/ww52MEV.jpg"
     },
@@ -17384,7 +17384,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "023",
       "CharacterName": "Artoria Pendragon (Lancer)",
-      "SeriesName": "Fate/Grand Order Camelot",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/mbQGT2v.jpg"
     },
@@ -17393,7 +17393,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "024",
       "CharacterName": "Mordred",
-      "SeriesName": "Fate/Apocrypha",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/3tJLC2U.jpg"
     },
@@ -17402,7 +17402,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "025",
       "CharacterName": "Medea",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/izMM7Xh.jpg"
     },
@@ -17411,7 +17411,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "026",
       "CharacterName": "Medusa",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/Qj9k6oY.jpg"
     },
@@ -17420,7 +17420,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "027",
       "CharacterName": "Enkidu",
-      "SeriesName": "Fate/Grand Order Babylonia",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/U8D2KV0.jpg"
     },
@@ -17429,7 +17429,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "028",
       "CharacterName": "Jack the Ripper",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/TmMvguz.jpg"
     },
@@ -17438,7 +17438,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "029",
       "CharacterName": "Frankenstein",
-      "SeriesName": "Fate/Apocrypha",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/iH5219s.jpg"
     },
@@ -17447,7 +17447,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "030",
       "CharacterName": "Atalanta",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/XwURJ0B.jpg"
     },
@@ -17456,7 +17456,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "031",
       "CharacterName": "Scathach-Skadi",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/3gi9rxR.jpg"
     },
@@ -17465,7 +17465,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "032",
       "CharacterName": "Leonardo Da Vinci",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/aS4Hq8n.jpg"
     },
@@ -17474,7 +17474,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "033",
       "CharacterName": "Anastasia Nikolaevna Romanova",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/KbhXmLc.jpg"
     },
@@ -17483,7 +17483,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "034",
       "CharacterName": "Sima Yi (Reines)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/vVv1flD.jpg"
     },
@@ -17492,7 +17492,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "035",
       "CharacterName": "Baobhan Sith",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/cQUmPOu.jpg"
     },
@@ -17501,7 +17501,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "036",
       "CharacterName": "Melusine",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/VchbNxG.jpg"
     },
@@ -17510,7 +17510,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "037",
       "CharacterName": "Okita Souji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/ywWi9Gg.jpg"
     },
@@ -17519,7 +17519,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "038",
       "CharacterName": "Demon King Nobunaga",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/RTOVC0P.jpg"
     },
@@ -17528,7 +17528,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "039",
       "CharacterName": "Amor (Caren)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/854uOcz.jpg"
     },
@@ -17537,7 +17537,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "040",
       "CharacterName": "Francis Drank",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/r815aHr.jpg"
     },
@@ -17546,7 +17546,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "041",
       "CharacterName": "Space Ishtar",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/KulQztv.jpg"
     },
@@ -17555,7 +17555,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "042",
       "CharacterName": "Xuanzang Sanzang",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/hJ4LeYJ.jpg"
     },
@@ -17564,7 +17564,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "043",
       "CharacterName": "Kiara Sessyoin (Alter Ego)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/68RxuM4.jpg"
     },
@@ -17573,7 +17573,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "044",
       "CharacterName": "Hassan of the Serenity",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/0TD7KVO.jpg"
     },
@@ -17582,7 +17582,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "045",
       "CharacterName": "Koyanskaya of Light",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/JAmIkCR.jpg"
     },
@@ -17591,7 +17591,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "046",
       "CharacterName": "Morgan le Fay",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/WxjLTa2.jpg"
     },
@@ -17600,7 +17600,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "047",
       "CharacterName": "Miss Crane",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/pxtfuFe.jpg"
     },
@@ -17609,7 +17609,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "048",
       "CharacterName": "Merlin",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/1U4o159.jpg"
     },
@@ -17618,7 +17618,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "049",
       "CharacterName": "Vritra",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/XfP2Hkm.jpg"
     },
@@ -17627,7 +17627,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "050",
       "CharacterName": "Ibuki Douji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/y5frvZx.jpg"
     },
@@ -17636,7 +17636,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "051",
       "CharacterName": "Van Gogh",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/zyAOS6A.jpg"
     },
@@ -17645,7 +17645,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "052",
       "CharacterName": "Himiko",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/JJAVnSg.jpg"
     },
@@ -17654,7 +17654,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "053",
       "CharacterName": "Sei Shounagon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/pQABvVV.jpg"
     },
@@ -17663,7 +17663,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "054",
       "CharacterName": "Yang Guifei",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/KgkYUUd.jpg"
     },
@@ -17672,7 +17672,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "055",
       "CharacterName": "Europa",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/ME8aGYS.jpg"
     },
@@ -17681,7 +17681,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "056",
       "CharacterName": "Ganesha",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/bGiM9df.jpg"
     },
@@ -17690,7 +17690,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "057",
       "CharacterName": "Kama",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/l4Fojpc.jpg"
     },
@@ -17699,7 +17699,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "058",
       "CharacterName": "Kingprotea",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/D11e8Gs.jpg"
     },
@@ -17708,7 +17708,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "059",
       "CharacterName": "Murasaki Shikibu",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/4JgtLgd.jpg"
     },
@@ -17717,7 +17717,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "060",
       "CharacterName": "Beni-enma",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/zvUXxJx.jpg"
     },
@@ -17726,7 +17726,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "061",
       "CharacterName": "Bradamante",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/3m9nbJk.jpg"
     },
@@ -17735,7 +17735,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "062",
       "CharacterName": "Sitonai",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/lrgSkTJ.jpg"
     },
@@ -17744,7 +17744,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "063",
       "CharacterName": "Katsushika Hokusai",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/RO4oe8W.jpg"
     },
@@ -17753,7 +17753,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "064",
       "CharacterName": "Osakabehime",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/5of5751.jpg"
     },
@@ -17762,7 +17762,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "065",
       "CharacterName": "Mysterious Heroine X",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/HcyngFn.jpg"
     },
@@ -17771,7 +17771,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "066",
       "CharacterName": "Mysterious Heroine X (Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/NaYgBea.jpg"
     },
@@ -17780,7 +17780,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "067",
       "CharacterName": "Medb",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/VSJ7iOf.jpg"
     },
@@ -17789,7 +17789,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "068",
       "CharacterName": "Cleopatra",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/KYERkpL.jpg"
     },
@@ -17798,7 +17798,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "069",
       "CharacterName": "Leonardo Da Vinci",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/b81ljhx.jpg"
     },
@@ -17807,7 +17807,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "070",
       "CharacterName": "Minamoto no Raikou",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/YGzC3l8.jpg"
     },
@@ -17816,7 +17816,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "071",
       "CharacterName": "Shuten Douji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/M6LGNSw.jpg"
     },
@@ -17825,7 +17825,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "072",
       "CharacterName": "Scheherazade",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/Qshe9ED.jpg"
     },
@@ -17834,7 +17834,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "073",
       "CharacterName": "Lakshmibai",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/Y6vlaCC.jpg"
     },
@@ -17843,7 +17843,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "074",
       "CharacterName": "Miyu Edelfelt",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/gDLPA3t.jpg"
     },
@@ -17852,7 +17852,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "075",
       "CharacterName": "Wu Zetian",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/a839UFp.jpg"
     },
@@ -17861,7 +17861,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "076",
       "CharacterName": "Valkyrie",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/vRkR9zG.jpg"
     },
@@ -17870,7 +17870,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "077",
       "CharacterName": "Atalanta (Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/Prg4mmp.jpg"
     },
@@ -17879,7 +17879,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "078",
       "CharacterName": "Queen of Sheba",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/8Vlqq73.jpg"
     },
@@ -17888,7 +17888,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "079",
       "CharacterName": "Nezha",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/p8E3saW.jpg"
     },
@@ -17897,7 +17897,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "080",
       "CharacterName": "Circe",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/1l3pmjZ.jpg"
     },
@@ -17906,7 +17906,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "081",
       "CharacterName": "Katou Danzou",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/lXdJ2jm.jpg"
     },
@@ -17915,7 +17915,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "082",
       "CharacterName": "Tomoe Gozen",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/U3LHgQl.jpg"
     },
@@ -17924,7 +17924,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "083",
       "CharacterName": "Parvati",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/gnnl7Xk.jpg"
     },
@@ -17933,7 +17933,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "084",
       "CharacterName": "Suzuka Gozen",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/fvEW9q8.jpg"
     },
@@ -17942,7 +17942,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "085",
       "CharacterName": "Passionlip",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/u7RxHTY.jpg"
     },
@@ -17951,7 +17951,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "086",
       "CharacterName": "Gorgon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/Xb4rMnl.jpg"
     },
@@ -17960,7 +17960,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "087",
       "CharacterName": "Medusa (Lancer)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/srsFYoq.jpg"
     },
@@ -17969,7 +17969,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "088",
       "CharacterName": "Tamamo Cat",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/kySOTV9.jpg"
     },
@@ -17978,7 +17978,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "089",
       "CharacterName": "Marie Antoinette",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/KoKENse.jpg"
     },
@@ -17987,7 +17987,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "090",
       "CharacterName": "Artoria Pendragon (Lily)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/MkUvoA8.jpg"
     },
@@ -17996,7 +17996,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "091",
       "CharacterName": "Mysterious Idol X ( Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/pLUEn3U.jpg"
     },
@@ -18005,7 +18005,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "092",
       "CharacterName": "Kiichi Hougen",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/14vjgfI.jpg"
     },
@@ -18014,7 +18014,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "093",
       "CharacterName": "Erice Utsumi",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/83npA52.jpg"
     },
@@ -18023,7 +18023,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "094",
       "CharacterName": "Nightingale (Santa)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/3IQHqek.jpg"
     },
@@ -18032,7 +18032,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "095",
       "CharacterName": "Nagao Kagetora",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/Q5r97vV.jpg"
     },
@@ -18041,7 +18041,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "096",
       "CharacterName": "Shuten Douji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/jMuKRkW.jpg"
     },
@@ -18050,7 +18050,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "097",
       "CharacterName": "Altera the San(ta)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/jp4C226.jpg"
     },
@@ -18059,7 +18059,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "098",
       "CharacterName": "Mecha Eli-chan",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/ZBYTnXk.jpg"
     },
@@ -18068,7 +18068,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "099",
       "CharacterName": "BB",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/BbgQw4f.jpg"
     },
@@ -18077,7 +18077,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 100,
       "CharacterName": "Chacha",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/Yh5w9si.jpg"
     },
@@ -18086,7 +18086,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 101,
       "CharacterName": "Jeanne d'Arc (Alter) (Santa Lily)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/7bR2XR0.jpg"
     },
@@ -18095,7 +18095,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 102,
       "CharacterName": "Elizabeth Bathory (Brave)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/Ir2EONs.jpg"
     },
@@ -18104,7 +18104,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 103,
       "CharacterName": "Chloe von Einzbern",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/H0jrxAK.jpg"
     },
@@ -18113,7 +18113,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 104,
       "CharacterName": "Irisviel (Dress of Heaven)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/W3EfuzE.jpg"
     },
@@ -18122,7 +18122,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 105,
       "CharacterName": "Shiki Ryougi",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/5xwxyno.jpg"
     },
@@ -18131,7 +18131,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 106,
       "CharacterName": "Artoria Pendragon (Santa Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/roRjFDy.jpg"
     },
@@ -18140,7 +18140,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 107,
       "CharacterName": "Oda Nobunaga",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/aYxv99D.jpg"
     },
@@ -18149,7 +18149,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 108,
       "CharacterName": "Elizabeth Bathory (Halloween)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/zy3tLZu.jpg"
     },
@@ -18158,7 +18158,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 109,
       "CharacterName": "Murasaki Shikibu",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/mWsike7.jpg"
     },
@@ -18167,7 +18167,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 110,
       "CharacterName": "Tomoe Gozen",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/ywJZrIw.jpg"
     },
@@ -18176,7 +18176,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 111,
       "CharacterName": "Abigail Williams",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/DUhdCmM.jpg"
     },
@@ -18185,7 +18185,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 112,
       "CharacterName": "Consort Yu",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/nOwBlb3.jpg"
     },
@@ -18194,7 +18194,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 113,
       "CharacterName": "Brynhildr",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/T5RhZyl.jpg"
     },
@@ -18203,7 +18203,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 114,
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/hErG6bv.jpg"
     },
@@ -18212,7 +18212,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 115,
       "CharacterName": "Kiara Sessyoin",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/DJ2D1Qy.jpg"
     },
@@ -18221,7 +18221,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 116,
       "CharacterName": "Okita Souji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/cIv2F2j.jpg"
     },
@@ -18230,7 +18230,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 117,
       "CharacterName": "Mysterious Alter Ego A",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/WUuIUHp.jpg"
     },
@@ -18239,7 +18239,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 118,
       "CharacterName": "Artoria Pendragon (Ruler)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/1WfqmdO.jpg"
     },
@@ -18248,7 +18248,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 119,
       "CharacterName": "Katsushika Hokusai",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/aMBHA8f.jpg"
     },
@@ -18257,7 +18257,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 120,
       "CharacterName": "Carmilla",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/sDbrQWM.jpg"
     },
@@ -18266,7 +18266,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 121,
       "CharacterName": "Osakabehime",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/FmNzMib.jpg"
     },
@@ -18275,7 +18275,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 122,
       "CharacterName": "Miyamoto Musashi",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/bGnz1gm.jpg"
     },
@@ -18284,7 +18284,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 123,
       "CharacterName": "Mysterious Heroine X",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/lKoEYbJ.jpg"
     },
@@ -18293,7 +18293,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 124,
       "CharacterName": "Medb",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/kzYGBS0.jpg"
     },
@@ -18302,7 +18302,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 125,
       "CharacterName": "BB",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/qssdGmm.jpg"
     },
@@ -18311,7 +18311,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 126,
       "CharacterName": "Jeanne d'Arc (Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/QkW6UqR.jpg"
     },
@@ -18320,7 +18320,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 127,
       "CharacterName": "Ushiwakamaru",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/iG5jMYQ.jpg"
     },
@@ -18329,7 +18329,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 128,
       "CharacterName": "Ibaraki Douji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/lRr0Ug2.jpg"
     },
@@ -18338,7 +18338,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 129,
       "CharacterName": "Jeanne d'Arc",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/7MyFfON.jpg"
     },
@@ -18347,7 +18347,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 130,
       "CharacterName": "Ishtar",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/6MlHTBt.jpg"
     },
@@ -18356,7 +18356,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 131,
       "CharacterName": "Minamoto no Raikou",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/sYrtCHC.jpg"
     },
@@ -18365,7 +18365,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 132,
       "CharacterName": "Helena Blavatsky",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/LnfTCd2.jpg"
     },
@@ -18374,7 +18374,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 133,
       "CharacterName": "Artoria Pendragon (Rider Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/W7S5uRR.jpg"
     },
@@ -18383,7 +18383,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 134,
       "CharacterName": "Oda Nobunaga",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/N0DR62i.jpg"
     },
@@ -18392,7 +18392,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 135,
       "CharacterName": "Nitocris",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/64fwHIP.jpg"
     },
@@ -18401,7 +18401,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 136,
       "CharacterName": "Frankenstein",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/yBkMkZw.jpg"
     },
@@ -18410,7 +18410,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 137,
       "CharacterName": "Nero Claudius",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/PPTdvQU.jpg"
     },
@@ -18419,7 +18419,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 138,
       "CharacterName": "Martha",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/2Wlpfbr.jpg"
     },
@@ -18428,7 +18428,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 139,
       "CharacterName": "Kiyohime",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/t8RAgSp.jpg"
     },
@@ -18437,7 +18437,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 140,
       "CharacterName": "Scathach",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/WRLG4du.jpg"
     },
@@ -18446,7 +18446,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 141,
       "CharacterName": "Mordred",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/FpSrQcC.jpg"
     },
@@ -18455,7 +18455,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 142,
       "CharacterName": "Anne Bonny & Mary Read",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/ObY7CWD.jpg"
     },
@@ -18464,7 +18464,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 143,
       "CharacterName": "Artoria Pendragon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/l0JunwY.jpg"
     },
@@ -18473,7 +18473,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": 144,
       "CharacterName": "Tamamo no mae",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/FW9wKOX.jpg"
     },
@@ -18482,7 +18482,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "001",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/inq2gs5.jpg"
     },
@@ -18491,7 +18491,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "002",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/U2WdGUC.jpg"
     },
@@ -18500,7 +18500,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "003",
       "CharacterName": "Artoria Pendragon (Saber) Lily Alter",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/AAdQ6lh.jpg"
     },
@@ -18509,7 +18509,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "004",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/iGElf6X.jpg"
     },
@@ -18518,7 +18518,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "005",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/z0X9dDU.jpg"
     },
@@ -18527,7 +18527,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "006",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/axusaMX.jpg"
     },
@@ -18536,7 +18536,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "007",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/sdTk26g.jpg"
     },
@@ -18545,7 +18545,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "008",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/jHsPoI9.jpg"
     },
@@ -18554,7 +18554,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "009",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/rKnHFo7.jpg"
     },
@@ -18563,7 +18563,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "010",
       "CharacterName": "Mysterious Heroine X",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/SlZLG5V.jpg"
     },
@@ -18572,7 +18572,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "011",
       "CharacterName": "Mysterious Heroine X (Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/nHcLTPF.jpg"
     },
@@ -18581,7 +18581,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "012",
       "CharacterName": "Artoria Avalon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/tc0RGPz.jpg"
     },
@@ -18590,7 +18590,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "013",
       "CharacterName": "Gilgamesh",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/qv1fRWw.jpg"
     },
@@ -18599,7 +18599,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "014",
       "CharacterName": "Merlin",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/oji4r3J.jpg"
     },
@@ -18608,7 +18608,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "015",
       "CharacterName": "Lanling Wang",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/b1KpSnT.jpg"
     },
@@ -18617,7 +18617,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "016",
       "CharacterName": "Astolfo",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/pGaJP31.jpg"
     },
@@ -18626,7 +18626,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "017",
       "CharacterName": "Chevalier d'Eon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/e09Rjdd.jpg"
     },
@@ -18635,7 +18635,7 @@
       "SetNumber": "NS-05-M04",
       "CardNumber": "018",
       "CharacterName": "Arash",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/34tqaz9.jpg"
     },
@@ -18680,7 +18680,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "005",
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/SZpRVG3.jpg"
     },
@@ -18833,7 +18833,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "022",
       "CharacterName": "Dia Viekone",
-      "SeriesName": "The World's Finest Assassin",
+      "SeriesName": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/aggRCiH.jpg"
     },
@@ -18842,7 +18842,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "023",
       "CharacterName": "Tarte",
-      "SeriesName": "The World's Finest Assassin",
+      "SeriesName": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/2AfJz8a.jpg"
     },
@@ -18851,7 +18851,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "024",
       "CharacterName": "Maha",
-      "SeriesName": "The World's Finest Assassin",
+      "SeriesName": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/RNJOrfy.jpg"
     },
@@ -19184,7 +19184,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "061",
       "CharacterName": "Kiyohime",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/xL017wp.jpg"
     },
@@ -19193,7 +19193,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "062",
       "CharacterName": "Anastasia",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/hnWCjR8.jpg"
     },
@@ -19526,7 +19526,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "099",
       "CharacterName": "Olga Marie Asmleit Animusphere",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/P6px70M.jpg"
     },
@@ -19670,7 +19670,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": 115,
       "CharacterName": "Rin Tohsaka",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "XR",
       "ImageUrl": "https://i.imgur.com/4nv9KCj.jpg"
     },
@@ -19679,7 +19679,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": 116,
       "CharacterName": "Sakura Matou",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "XR",
       "ImageUrl": "https://i.imgur.com/yFTKIA8.jpg"
     },
@@ -19697,7 +19697,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "001",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/cvedbCp.jpg"
     },
@@ -19706,7 +19706,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "002",
       "CharacterName": "Meltlilith",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/ffxcZ2k.jpg"
     },
@@ -19715,7 +19715,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "003",
       "CharacterName": "Mysterious Heroine X (Alter)",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/sIbn2g6.jpg"
     },
@@ -19724,7 +19724,7 @@
       "SetNumber": "NS-05-M05",
       "CardNumber": "004",
       "CharacterName": "Gray",
-      "SeriesName": "Fate/Labyrinth",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/8YpK7bN.jpg"
     },
@@ -20246,7 +20246,7 @@
       "SetNumber": "NS-05-M06",
       "CardNumber": "044",
       "CharacterName": "Morgan le Fay",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/03wsgwE.jpg"
     },
@@ -20831,7 +20831,7 @@
       "SetNumber": "NS-05-M06",
       "CardNumber": 109,
       "CharacterName": "Melusine",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "XR",
       "ImageUrl": "https://i.imgur.com/8FtHbOR.jpg"
     },
@@ -20840,7 +20840,7 @@
       "SetNumber": "NS-05-M06",
       "CardNumber": 110,
       "CharacterName": "Anastasia Nikolaevna Romanova",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "XR",
       "ImageUrl": "https://i.imgur.com/30zfEf3.jpg"
     },
@@ -21010,7 +21010,7 @@
       "Code": "NS10M01012",
       "SetNumber": "NS-10-M01",
       "CardNumber": "012",
-      "CharacterName": "Kana Ichigo",
+      "CharacterName": "Ichigo",
       "SeriesName": "Darling in the Franxx",
       "Rarity": "NTR",
       "ImageUrl": "https://i.imgur.com/PuhJaXM.jpg"
@@ -21019,7 +21019,7 @@
       "Code": "NS10M01013",
       "SetNumber": "NS-10-M01",
       "CardNumber": "013",
-      "CharacterName": "Yuna Gasai",
+      "CharacterName": "Yuno Gasai",
       "SeriesName": "Future Diary",
       "Rarity": "NTR",
       "ImageUrl": "https://i.imgur.com/t2fhiog.jpg"
@@ -21029,7 +21029,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "014",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "NTR",
       "ImageUrl": "https://i.imgur.com/RTX2m2n.jpg"
     },
@@ -21074,7 +21074,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "019",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/FMX68xf.jpg"
     },
@@ -21398,7 +21398,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "055",
       "CharacterName": "Rikka Takarada",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "FR",
       "ImageUrl": "https://i.imgur.com/jlPf7Wy.jpg"
     },
@@ -21407,7 +21407,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "056",
       "CharacterName": "Akane Shinjo",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "FR",
       "ImageUrl": "https://i.imgur.com/knau8lE.jpg"
     },
@@ -21479,7 +21479,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "064",
       "CharacterName": "Sakura Matou",
-      "SeriesName": "Fate/stay night",
+      "SeriesName": "Fate Series",
       "Rarity": "FR",
       "ImageUrl": "https://i.imgur.com/eUk0qF8.jpg"
     },
@@ -21704,7 +21704,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "089",
       "CharacterName": "Chloe von Einzbern",
-      "SeriesName": "Fate/kaleid liner PRISMA☆ILLYA",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/f0HtzJV.jpg"
     },
@@ -21713,7 +21713,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "090",
       "CharacterName": "Illyasviel von Einzbern",
-      "SeriesName": "Fate/kaleid liner PRISMA☆ILLYA",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/fMfqRCL.jpg"
     },
@@ -21776,7 +21776,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "097",
       "CharacterName": "Artoria Pendragon (Saber) Alter",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/RAKW3zX.jpg"
     },
@@ -21965,7 +21965,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": 118,
       "CharacterName": "Jeanne d'Arc",
-      "SeriesName": "Fate/Apocrypha",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/rvQSvo7.jpg"
     },
@@ -22235,7 +22235,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "004",
       "CharacterName": "Artoria Pendragon",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/W3OszSR.jpg"
     },
@@ -22244,7 +22244,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "005",
       "CharacterName": "Jeanne d'Arc",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/7OxBeDL.jpg"
     },
@@ -22253,7 +22253,7 @@
       "SetNumber": "NS-10-M01",
       "CardNumber": "006",
       "CharacterName": "Okita Souji",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/WNksYm6.jpg"
     },
@@ -22577,7 +22577,7 @@
       "SetNumber": "NS-10-M02",
       "CardNumber": "024",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "MR",
       "ImageUrl": "https://i.imgur.com/3Cba0mW.jpg"
     },
@@ -22919,7 +22919,7 @@
       "SetNumber": "NS-10-M02",
       "CardNumber": "062",
       "CharacterName": "Yang Guifei",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "FR",
       "ImageUrl": "https://i.imgur.com/tKw8JOB.jpg"
     },
@@ -22928,7 +22928,7 @@
       "SetNumber": "NS-10-M02",
       "CardNumber": "063",
       "CharacterName": "Scathach",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "FR",
       "ImageUrl": "https://i.imgur.com/r7LNe0d.jpg"
     },
@@ -23152,7 +23152,7 @@
       "Code": "NS10M02088",
       "SetNumber": "NS-10-M02",
       "CardNumber": "088",
-      "CharacterName": "Higuchi Madoka",
+      "CharacterName": "Madoka Higuchi",
       "SeriesName": "The Idolm@ster",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/IZEBYEy.jpg"
@@ -23657,7 +23657,7 @@
       "SetNumber": "NS-10-M02",
       "CardNumber": 144,
       "CharacterName": "Merlin",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/fDzETKS.jpg"
     },
@@ -23666,7 +23666,7 @@
       "SetNumber": "NS-10-M02",
       "CardNumber": "001",
       "CharacterName": "Ereshkigal",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/rYtOlwC.jpg"
     },
@@ -23675,7 +23675,7 @@
       "SetNumber": "NS-10-M02",
       "CardNumber": "002",
       "CharacterName": "Ishtar",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/hKXcrOk.jpg"
     },
@@ -24296,7 +24296,7 @@
       "SetNumber": "NS-10-M03",
       "CardNumber": "044",
       "CharacterName": "Ishtar",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "FR",
       "ImageUrl": "https://i.imgur.com/2d5Xvpc.jpg"
     },
@@ -24305,7 +24305,7 @@
       "SetNumber": "NS-10-M03",
       "CardNumber": "045",
       "CharacterName": "Ereshkigal",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "FR",
       "ImageUrl": "https://i.imgur.com/XTFzUJn.jpg"
     },
@@ -24404,7 +24404,7 @@
       "SetNumber": "NS-10-M03",
       "CardNumber": "056",
       "CharacterName": "Akane Shinjo",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "FR",
       "ImageUrl": "https://i.imgur.com/RdeAleP.jpg"
     },
@@ -25133,7 +25133,7 @@
       "SetNumber": "NS-10-M03",
       "CardNumber": "002",
       "CharacterName": "Akane Shinjo",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/lOhZ0eB.jpg"
     },
@@ -25898,7 +25898,7 @@
       "SetNumber": "NS-10-M04",
       "CardNumber": "015",
       "CharacterName": "Akane Shinjo",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "CP",
       "ImageUrl": "https://i.imgur.com/7f1BqB8.jpg"
     },
@@ -25907,7 +25907,7 @@
       "SetNumber": "NS-10-M04",
       "CardNumber": "016",
       "CharacterName": "Rikka Takarada",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "CP",
       "ImageUrl": "https://i.imgur.com/5JVh1XO.jpg"
     },
@@ -26033,7 +26033,7 @@
       "SetNumber": "NS-10-M04",
       "CardNumber": "012",
       "CharacterName": "Akane Shinjo",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "FR",
       "ImageUrl": "https://i.imgur.com/6ognqlZ.jpg"
     },
@@ -26978,7 +26978,7 @@
       "SetNumber": "NNS",
       "CardNumber": "005",
       "CharacterName": "Mashu Kyrielight",
-      "SeriesName": "Fate/Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "XNR",
       "ImageUrl": "https://i.imgur.com/R8bjxJZ.jpg"
     },
@@ -27004,7 +27004,7 @@
       "Code": "NNSSSP002",
       "SetNumber": "NNS",
       "CardNumber": "002",
-      "CharacterName": "Kana Ichigo",
+      "CharacterName": "Ichigo",
       "SeriesName": "Darling in the Franxx",
       "Rarity": "SSP",
       "ImageUrl": "https://i.imgur.com/4fIA5QH.jpg"
@@ -27347,7 +27347,7 @@
       "SetNumber": "NNS",
       "CardNumber": "004",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate Grand Order",
+      "SeriesName": "Fate Series",
       "Rarity": "FSR",
       "ImageUrl": "https://i.imgur.com/ehqQAbj.jpg"
     },
@@ -27536,7 +27536,7 @@
       "SetNumber": "NNS",
       "CardNumber": "016",
       "CharacterName": "Akane Shinjo",
-      "SeriesName": "SSSS. GRIDMAN",
+      "SeriesName": "SSSS.GRIDMAN",
       "Rarity": "ZR",
       "ImageUrl": "https://i.imgur.com/DnHPOUc.jpg"
     },
@@ -28193,7 +28193,7 @@
       "SetNumber": "NNS",
       "CardNumber": "008",
       "CharacterName": "Artoria Pendragon (Saber)",
-      "SeriesName": "Fate/Zero",
+      "SeriesName": "Fate Series",
       "Rarity": "AR",
       "ImageUrl": "https://i.imgur.com/rexOn1v.jpg"
     },
@@ -28610,16 +28610,1416 @@
       "SeriesName": "Girls' Frontline",
       "Rarity": "MC",
       "ImageUrl": "https://i.imgur.com/yxO6XYD.jpg"
+    },
+    {
+      "Code": "NS08SSR001",
+      "SetNumber": "NS-08",
+      "CardNumber": "001",
+      "CharacterName": "Ushio Kofune",
+      "SeriesName": "Summer Time Rendering",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/In8SGkA.jpg"
+    },
+    {
+      "Code": "NS08SSR002",
+      "SetNumber": "NS-08",
+      "CardNumber": "002",
+      "CharacterName": "Type 95",
+      "SeriesName": "Girls' Frontline",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/okU6jhX.jpg"
+    },
+    {
+      "Code": "NS08SSR003",
+      "SetNumber": "NS-08",
+      "CardNumber": "003",
+      "CharacterName": "Madoka Higuchi",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/rs4HBBj.jpg"
+    },
+    {
+      "Code": "NS08SSR004",
+      "SetNumber": "NS-08",
+      "CardNumber": "004",
+      "CharacterName": "Hatsune Miku",
+      "SeriesName": "Vocaloid",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/9tilmx5.jpg"
+    },
+    {
+      "Code": "NS08SSR005",
+      "SetNumber": "NS-08",
+      "CardNumber": "005",
+      "CharacterName": "Luo Tianyi",
+      "SeriesName": "Vocaloid",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/edTJNOC.jpg"
+    },
+    {
+      "Code": "NS08SSR006",
+      "SetNumber": "NS-08",
+      "CardNumber": "006",
+      "CharacterName": "Takina Inoue",
+      "SeriesName": "Lycoris Recoil",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/Ew3T27F.jpg"
+    },
+    {
+      "Code": "NS08SSR007",
+      "SetNumber": "NS-08",
+      "CardNumber": "007",
+      "CharacterName": "Chisato Nishikigi",
+      "SeriesName": "Lycoris Recoil",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/oXtotzt.jpg"
+    },
+    {
+      "Code": "NS08SSR008",
+      "SetNumber": "NS-08",
+      "CardNumber": "008",
+      "CharacterName": "Kurumi",
+      "SeriesName": "Lycoris Recoil",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/CV5KtT2.jpg"
+    },
+    {
+      "Code": "NS08SSR009",
+      "SetNumber": "NS-08",
+      "CardNumber": "009",
+      "CharacterName": "Kisara",
+      "SeriesName": "Engage Kiss",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/uLFoz4A.jpg"
+    },
+    {
+      "Code": "NS08SSR010",
+      "SetNumber": "NS-08",
+      "CardNumber": "010",
+      "CharacterName": "Tsundere Elf",
+      "SeriesName": "Uncle from Another World",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/Poy2aiE.jpg"
+    },
+    {
+      "Code": "NS08SSR011",
+      "SetNumber": "NS-08",
+      "CardNumber": "011",
+      "CharacterName": "Roxy Migurdia",
+      "SeriesName": "Mushoku Tensei: Jobless Reincarnation",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/nMaNusR.jpg"
+    },
+    {
+      "Code": "NS08SSR012",
+      "SetNumber": "NS-08",
+      "CardNumber": "012",
+      "CharacterName": "Collei",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/FiY1yyC.jpg"
+    },
+    {
+      "Code": "NS08SSR013",
+      "SetNumber": "NS-08",
+      "CardNumber": "013",
+      "CharacterName": "Raiden Shogun",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/sll4k8g.jpg"
+    },
+    {
+      "Code": "NS08SSR014",
+      "SetNumber": "NS-08",
+      "CardNumber": "014",
+      "CharacterName": "Tokai Teio",
+      "SeriesName": "Uma Musume Pretty Derby",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/jLKYqgm.jpg"
+    },
+    {
+      "Code": "NS08SSR015",
+      "SetNumber": "NS-08",
+      "CardNumber": "015",
+      "CharacterName": "Hina Amano",
+      "SeriesName": "Weathering with You",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/lpLKHti.jpg"
+    },
+    {
+      "Code": "NS08SSR016",
+      "SetNumber": "NS-08",
+      "CardNumber": "016",
+      "CharacterName": "Rei Ayanami",
+      "SeriesName": "Eva",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/xxw0h61.jpg"
+    },
+    {
+      "Code": "NS08SSR017",
+      "SetNumber": "NS-08",
+      "CardNumber": "017",
+      "CharacterName": "Mitsuri Kanroji",
+      "SeriesName": "Demon Slayer",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/a53W0nw.jpg"
+    },
+    {
+      "Code": "NS08SSR018",
+      "SetNumber": "NS-08",
+      "CardNumber": "018",
+      "CharacterName": "Nezuko Kamado",
+      "SeriesName": "Demon Slayer",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/71QaPoW.jpg"
+    },
+    {
+      "Code": "NS08SR001",
+      "SetNumber": "NS-08",
+      "CardNumber": "001",
+      "CharacterName": "Kar98k",
+      "SeriesName": "Girls' Frontline",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/qMF6TE5.jpg"
+    },
+    {
+      "Code": "NS08SR002",
+      "SetNumber": "NS-08",
+      "CardNumber": "002",
+      "CharacterName": "AK-12",
+      "SeriesName": "Girls' Frontline",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/miUVgPK.jpg"
+    },
+    {
+      "Code": "NS08SR003",
+      "SetNumber": "NS-08",
+      "CardNumber": "003",
+      "CharacterName": "Renge",
+      "SeriesName": "Bishoujo Mangekyou",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/DINBe7Z.jpg"
+    },
+    {
+      "Code": "NS08SR004",
+      "SetNumber": "NS-08",
+      "CardNumber": "004",
+      "CharacterName": "Ichigo",
+      "SeriesName": "Darling in the Franxx",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/hPDZjPb.jpg"
+    },
+    {
+      "Code": "NS08SR005",
+      "SetNumber": "NS-08",
+      "CardNumber": "005",
+      "CharacterName": "Emilia",
+      "SeriesName": "Re:Zero",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/iijjkXL.jpg"
+    },
+    {
+      "Code": "NS08SR006",
+      "SetNumber": "NS-08",
+      "CardNumber": "006",
+      "CharacterName": "Ram",
+      "SeriesName": "Re:Zero",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/mk8HNIh.jpg"
+    },
+    {
+      "Code": "NS08SR007",
+      "SetNumber": "NS-08",
+      "CardNumber": "007",
+      "CharacterName": "Megumi Kato",
+      "SeriesName": "How to Raise a Boring Girlfriend",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/fvqy3GQ.jpg"
+    },
+    {
+      "Code": "NS08SR008",
+      "SetNumber": "NS-08",
+      "CardNumber": "008",
+      "CharacterName": "Eriri Spencer Sawamura",
+      "SeriesName": "How to Raise a Boring Girlfriend",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/agV1dIB.jpg"
+    },
+    {
+      "Code": "NS08SR009",
+      "SetNumber": "NS-08",
+      "CardNumber": "009",
+      "CharacterName": "Iroha Isshiki",
+      "SeriesName": "My Youth Romantic Comedy Is Wrong As I Expected",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/VUhQ0Qe.jpg"
+    },
+    {
+      "Code": "NS08SR010",
+      "SetNumber": "NS-08",
+      "CardNumber": "010",
+      "CharacterName": "Ninym Ralei",
+      "SeriesName": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/R6vZJAg.jpg"
+    },
+    {
+      "Code": "NS08SR011",
+      "SetNumber": "NS-08",
+      "CardNumber": "011",
+      "CharacterName": "Suigintou",
+      "SeriesName": "Rozen Maiden",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/hnotAGL.jpg"
+    },
+    {
+      "Code": "NS08SR012",
+      "SetNumber": "NS-08",
+      "CardNumber": "012",
+      "CharacterName": "Siesta",
+      "SeriesName": "The Detective is Already Dead",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/waAWk42.jpg"
+    },
+    {
+      "Code": "NS08SR013",
+      "SetNumber": "NS-08",
+      "CardNumber": "013",
+      "CharacterName": "Baobhan Sith",
+      "SeriesName": "Fate Series",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/sdhGqmw.jpg"
+    },
+    {
+      "Code": "NS08SR014",
+      "SetNumber": "NS-08",
+      "CardNumber": "014",
+      "CharacterName": "Izumo no Okuni",
+      "SeriesName": "Fate Series",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/WSAgBFV.jpg"
+    },
+    {
+      "Code": "NS08SR015",
+      "SetNumber": "NS-08",
+      "CardNumber": "015",
+      "CharacterName": "Kanao Tsuyuri",
+      "SeriesName": "Demon Slayer",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/F4h1pT7.jpg"
+    },
+    {
+      "Code": "NS08SR016",
+      "SetNumber": "NS-08",
+      "CardNumber": "016",
+      "CharacterName": "Howe",
+      "SeriesName": "Azur Lane",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/vx4OWoi.jpg"
+    },
+    {
+      "Code": "NS08SR017",
+      "SetNumber": "NS-08",
+      "CardNumber": "017",
+      "CharacterName": "Myrtle",
+      "SeriesName": "Arknights",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/FLtQpqH.jpg"
+    },
+    {
+      "Code": "NS08SR018",
+      "SetNumber": "NS-08",
+      "CardNumber": "018",
+      "CharacterName": "Nian",
+      "SeriesName": "Arknights",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/0q6CuQQ.jpg"
+    },
+    {
+      "Code": "NS08SR019",
+      "SetNumber": "NS-08",
+      "CardNumber": "019",
+      "CharacterName": "Sylphiette",
+      "SeriesName": "Mushoku Tensei: Jobless Reincarnation",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/RtbAyRN.jpg"
+    },
+    {
+      "Code": "NS08SR020",
+      "SetNumber": "NS-08",
+      "CardNumber": "020",
+      "CharacterName": "Murakumo",
+      "SeriesName": "Kantai Collection",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/AnmO9jM.jpg"
+    },
+    {
+      "Code": "NS08SR021",
+      "SetNumber": "NS-08",
+      "CardNumber": "021",
+      "CharacterName": "Ruri Gokou",
+      "SeriesName": "OreImo",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/lANRRZy.jpg"
+    },
+    {
+      "Code": "NS08SR022",
+      "SetNumber": "NS-08",
+      "CardNumber": "022",
+      "CharacterName": "Rikka Takanashi",
+      "SeriesName": "Love, Chunibyo & Other Delusions!",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/CWZWGW5.jpg"
+    },
+    {
+      "Code": "NS08SR023",
+      "SetNumber": "NS-08",
+      "CardNumber": "023",
+      "CharacterName": "Kyoko Sakura",
+      "SeriesName": "Puella Magi Madoka Magica",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/N0dscSr.jpg"
+    },
+    {
+      "Code": "NS08SR024",
+      "SetNumber": "NS-08",
+      "CardNumber": "024",
+      "CharacterName": "Mai Yanase",
+      "SeriesName": "Toji no Miko",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/MSVEMMi.jpg"
+    },
+    {
+      "Code": "NS08SR025",
+      "SetNumber": "NS-08",
+      "CardNumber": "025",
+      "CharacterName": "Musse Egret",
+      "SeriesName": "The Legend of Heroes: Trails of Cold Steel",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/xYO83Ys.jpg"
+    },
+    {
+      "Code": "NS08SR026",
+      "SetNumber": "NS-08",
+      "CardNumber": "026",
+      "CharacterName": "Yae Sakura",
+      "SeriesName": "Honkai Impact",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/ZaU4K8T.jpg"
+    },
+    {
+      "Code": "NS08SR027",
+      "SetNumber": "NS-08",
+      "CardNumber": "027",
+      "CharacterName": "Sangonomiya Kokomi",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/xywiG34.jpg"
+    },
+    {
+      "Code": "NS08SR028",
+      "SetNumber": "NS-08",
+      "CardNumber": "028",
+      "CharacterName": "Shenhe",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/qL93rbU.jpg"
+    },
+    {
+      "Code": "NS08SR029",
+      "SetNumber": "NS-08",
+      "CardNumber": "029",
+      "CharacterName": "Yan he",
+      "SeriesName": "Vocaloid",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/XDkWR4d.jpg"
+    },
+    {
+      "Code": "NS08SR030",
+      "SetNumber": "NS-08",
+      "CardNumber": "030",
+      "CharacterName": "Nico Yazawa",
+      "SeriesName": "Love Live!",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/QHa9Y9Y.jpg"
+    },
+    {
+      "Code": "NS08SR031",
+      "SetNumber": "NS-08",
+      "CardNumber": "031",
+      "CharacterName": "Kotori Minami",
+      "SeriesName": "Love Live!",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/8cMUdLd.jpg"
+    },
+    {
+      "Code": "NS08SR032",
+      "SetNumber": "NS-08",
+      "CardNumber": "032",
+      "CharacterName": "Eli Ayase",
+      "SeriesName": "Love Live!",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/ocTw0qe.jpg"
+    },
+    {
+      "Code": "NS08SR033",
+      "SetNumber": "NS-08",
+      "CardNumber": "033",
+      "CharacterName": "Ai Miyashita",
+      "SeriesName": "Love Live!",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/LGpt90Z.jpg"
+    },
+    {
+      "Code": "NS08SR034",
+      "SetNumber": "NS-08",
+      "CardNumber": "034",
+      "CharacterName": "Rina Tennouji",
+      "SeriesName": "Love Live!",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/yoEcXL8.jpg"
+    },
+    {
+      "Code": "NS08SR035",
+      "SetNumber": "NS-08",
+      "CardNumber": "035",
+      "CharacterName": "Yukiho Hagiwara",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/fD9sNvL.jpg"
+    },
+    {
+      "Code": "NS08SR036",
+      "SetNumber": "NS-08",
+      "CardNumber": "036",
+      "CharacterName": "Kei Karuizawa",
+      "SeriesName": "Classroom of the Elite",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/pSfRW46.jpg"
+    },
+    {
+      "Code": "NS08R001",
+      "SetNumber": "NS-08",
+      "CardNumber": "001",
+      "CharacterName": "IWS 2000",
+      "SeriesName": "Girls' Frontline",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/EH2dghZ.jpg"
+    },
+    {
+      "Code": "NS08R002",
+      "SetNumber": "NS-08",
+      "CardNumber": "002",
+      "CharacterName": "Yuno Gasai",
+      "SeriesName": "Future Diary",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/rbOuXyU.jpg"
+    },
+    {
+      "Code": "NS08R003",
+      "SetNumber": "NS-08",
+      "CardNumber": "003",
+      "CharacterName": "Ai Hinatsuru",
+      "SeriesName": "The Ryuo's Work is Never Done",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/Yru4Z6w.jpg"
+    },
+    {
+      "Code": "NS08R004",
+      "SetNumber": "NS-08",
+      "CardNumber": "004",
+      "CharacterName": "Taiga Aisaka",
+      "SeriesName": "Toradora",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/D9UXtF6.jpg"
+    },
+    {
+      "Code": "NS08R005",
+      "SetNumber": "NS-08",
+      "CardNumber": "005",
+      "CharacterName": "Tatsumaki",
+      "SeriesName": "One Punch Man",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/osk2dI8.jpg"
+    },
+    {
+      "Code": "NS08R006",
+      "SetNumber": "NS-08",
+      "CardNumber": "006",
+      "CharacterName": "Nagisa Natsunagi",
+      "SeriesName": "The Detective is Already Dead",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/FTWLYyF.jpg"
+    },
+    {
+      "Code": "NS08R007",
+      "SetNumber": "NS-08",
+      "CardNumber": "007",
+      "CharacterName": "Umi Sonoda",
+      "SeriesName": "Love Live!",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/sUyruiQ.jpg"
+    },
+    {
+      "Code": "NS08R008",
+      "SetNumber": "NS-08",
+      "CardNumber": "008",
+      "CharacterName": "Nagao Kagetora",
+      "SeriesName": "Fate Series",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/SWCROzU.jpg"
+    },
+    {
+      "Code": "NS08R009",
+      "SetNumber": "NS-08",
+      "CardNumber": "009",
+      "CharacterName": "Flandre Scarlet",
+      "SeriesName": "Touhou Project",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/b08ntqd.jpg"
+    },
+    {
+      "Code": "NS08R010",
+      "SetNumber": "NS-08",
+      "CardNumber": "010",
+      "CharacterName": "Nyaruko",
+      "SeriesName": "Nyaruko: Crawling with Love!",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/0vg62zm.jpg"
+    },
+    {
+      "Code": "NS08R011",
+      "SetNumber": "NS-08",
+      "CardNumber": "011",
+      "CharacterName": "Sunaookami Shiroko",
+      "SeriesName": "Blue Archive",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/9Ky1e7t.jpg"
+    },
+    {
+      "Code": "NS08R012",
+      "SetNumber": "NS-08",
+      "CardNumber": "012",
+      "CharacterName": "Mobius",
+      "SeriesName": "Honkai Impact",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/LrtkhYU.jpg"
+    },
+    {
+      "Code": "NS08R013",
+      "SetNumber": "NS-08",
+      "CardNumber": "013",
+      "CharacterName": "Seele",
+      "SeriesName": "Honkai Impact",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/zV5oM4H.jpg"
+    },
+    {
+      "Code": "NS08R014",
+      "SetNumber": "NS-08",
+      "CardNumber": "014",
+      "CharacterName": "Lisa",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/1et71cC.jpg"
+    },
+    {
+      "Code": "NS08R015",
+      "SetNumber": "NS-08",
+      "CardNumber": "015",
+      "CharacterName": "Diona",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/q5cL21S.jpg"
+    },
+    {
+      "Code": "NS08R016",
+      "SetNumber": "NS-08",
+      "CardNumber": "016",
+      "CharacterName": "Cheshire",
+      "SeriesName": "Azur Lane",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/7XpYC1G.jpg"
+    },
+    {
+      "Code": "NS08R017",
+      "SetNumber": "NS-08",
+      "CardNumber": "017",
+      "CharacterName": "Akagi",
+      "SeriesName": "Azur Lane",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/T9Jhp01.jpg"
+    },
+    {
+      "Code": "NS08R018",
+      "SetNumber": "NS-08",
+      "CardNumber": "018",
+      "CharacterName": "Eunectes",
+      "SeriesName": "Arknights",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/kHg92MZ.jpg"
+    },
+    {
+      "Code": "NS02M08PTR001",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "001",
+      "CharacterName": "Tsundere Elf",
+      "SeriesName": "Uncle from Another World",
+      "Rarity": "PTR",
+      "ImageUrl": "https://i.imgur.com/hc9U9ni.jpg"
+    },
+    {
+      "Code": "NS02M08PTR002",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "002",
+      "CharacterName": "Takina Inoue",
+      "SeriesName": "Lycoris Recoil",
+      "Rarity": "PTR",
+      "ImageUrl": "https://i.imgur.com/rDRIgtw.jpg"
+    },
+    {
+      "Code": "NS02M08PTR003",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "003",
+      "CharacterName": "Chisato Nishikigi",
+      "SeriesName": "Lycoris Recoil",
+      "Rarity": "PTR",
+      "ImageUrl": "https://i.imgur.com/o1Yop1B.jpg"
+    },
+    {
+      "Code": "NS02M08PTR004",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "004",
+      "CharacterName": "Kurumi",
+      "SeriesName": "Lycoris Recoil",
+      "Rarity": "PTR",
+      "ImageUrl": "https://i.imgur.com/Q0worlS.jpg"
+    },
+    {
+      "Code": "NS02M08PTR005",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "005",
+      "CharacterName": "Elysia",
+      "SeriesName": "Honkai Impact",
+      "Rarity": "PTR",
+      "ImageUrl": "https://i.imgur.com/GelZ8QC.jpg"
+    },
+    {
+      "Code": "NS02M08PTR006",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "006",
+      "CharacterName": "Ushio Kofune",
+      "SeriesName": "Summer Time Rendering",
+      "Rarity": "PTR",
+      "ImageUrl": "https://i.imgur.com/7KrBK8k.jpg"
+    },
+    {
+      "Code": "NS02M08PTR007",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "007",
+      "CharacterName": "Eiko Tsukimi",
+      "SeriesName": "Ya Boy Kongming!",
+      "Rarity": "PTR",
+      "ImageUrl": "https://i.imgur.com/nV74rLq.jpg"
+    },
+    {
+      "Code": "NS02M08PTR008",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "008",
+      "CharacterName": "Merlin",
+      "SeriesName": "Fate Series",
+      "Rarity": "PTR",
+      "ImageUrl": "https://i.imgur.com/xzTORnj.jpg"
+    },
+    {
+      "Code": "NS02M08PTR009",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "009",
+      "CharacterName": "Lucia",
+      "SeriesName": "Punishing: Gray Raven",
+      "Rarity": "PTR",
+      "ImageUrl": "https://i.imgur.com/zXuvmNm.jpg"
+    },
+    {
+      "Code": "NS02M08SSR001",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "001",
+      "CharacterName": "Albedo",
+      "SeriesName": "Overlord",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/BgnDUqU.jpg"
+    },
+    {
+      "Code": "NS02M08SSR002",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "002",
+      "CharacterName": "Hizuru Minakata",
+      "SeriesName": "Summer Time Rendering",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/QeliRza.jpg"
+    },
+    {
+      "Code": "NS02M08SSR003",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "003",
+      "CharacterName": "C.C.",
+      "SeriesName": "Code Geass",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/tYWFuGG.jpg"
+    },
+    {
+      "Code": "NS02M08SSR004",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "004",
+      "CharacterName": "Esdeath",
+      "SeriesName": "Akame Ga Kill!",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/fxXOMLb.jpg"
+    },
+    {
+      "Code": "NS02M08SSR005",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "005",
+      "CharacterName": "Nahida",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/0EJHJbS.jpg"
+    },
+    {
+      "Code": "NS02M08SSR006",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "006",
+      "CharacterName": "Nilou",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/0yvXU6K.jpg"
+    },
+    {
+      "Code": "NS02M08SSR007",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "007",
+      "CharacterName": "Kamisato Ayaka",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/xr1iHGk.jpg"
+    },
+    {
+      "Code": "NS02M08SSR008",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "008",
+      "CharacterName": "Lumine",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/VsiSQaa.jpg"
+    },
+    {
+      "Code": "NS02M08SSR009",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "009",
+      "CharacterName": "Fischl",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/UKGJQoW.jpg"
+    },
+    {
+      "Code": "NS02M08SSR010",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "010",
+      "CharacterName": "Fu Hua",
+      "SeriesName": "Honkai Impact",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/lI8H4ZA.jpg"
+    },
+    {
+      "Code": "NS02M08SSR011",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "011",
+      "CharacterName": "Tosa",
+      "SeriesName": "Azur Lane",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/ZligUMf.jpg"
+    },
+    {
+      "Code": "NS02M08SSR012",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "012",
+      "CharacterName": "Unicorn",
+      "SeriesName": "Azur Lane",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/qkCMvvP.jpg"
+    },
+    {
+      "Code": "NS02M08SSR013",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "013",
+      "CharacterName": "Kasumizawa Miyu",
+      "SeriesName": "Blue Archive",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/qBRUlqB.jpg"
+    },
+    {
+      "Code": "NS02M08SSR014",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "014",
+      "CharacterName": "Laffey",
+      "SeriesName": "Azur Lane",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/ToXmyLm.jpg"
+    },
+    {
+      "Code": "NS02M08SSR015",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "015",
+      "CharacterName": "Ayanami",
+      "SeriesName": "Azur Lane",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/0Nc8iQc.jpg"
+    },
+    {
+      "Code": "NS02M08SSR016",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "016",
+      "CharacterName": "Shimakaze",
+      "SeriesName": "Kantai Collection",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/Kz2sPiS.jpg"
+    },
+    {
+      "Code": "NS02M08SSR017",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "017",
+      "CharacterName": "Satono Diamond",
+      "SeriesName": "Uma Musume Pretty Derby",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/bXqPpB2.jpg"
+    },
+    {
+      "Code": "NS02M08SSR018",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "018",
+      "CharacterName": "Rice Shower",
+      "SeriesName": "Uma Musume Pretty Derby",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/kWTP22h.jpg"
+    },
+    {
+      "Code": "NS02M08SSR019",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "019",
+      "CharacterName": "Pozyomka",
+      "SeriesName": "Arknights",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/mwZLPJa.jpg"
+    },
+    {
+      "Code": "NS02M08SSR020",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "020",
+      "CharacterName": "Rosmontis",
+      "SeriesName": "Arknights",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/92MLq6g.jpg"
+    },
+    {
+      "Code": "NS02M08SSR021",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "021",
+      "CharacterName": "Surtr",
+      "SeriesName": "Arknights",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/H4mjOo4.jpg"
+    },
+    {
+      "Code": "NS02M08SSR022",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "022",
+      "CharacterName": "Skadi",
+      "SeriesName": "Arknights",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/7a4mYfJ.jpg"
+    },
+    {
+      "Code": "NS02M08SSR023",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "023",
+      "CharacterName": "Sayu Ogiwara",
+      "SeriesName": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/DVrjdAQ.jpg"
+    },
+    {
+      "Code": "NS02M08SSR024",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "024",
+      "CharacterName": "Maha",
+      "SeriesName": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/f4wRPV5.jpg"
+    },
+    {
+      "Code": "NS02M08SSR025",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "025",
+      "CharacterName": "Sayaka Miki",
+      "SeriesName": "Puella Magi Madoka Magica",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/cUp8AZW.jpg"
+    },
+    {
+      "Code": "NS02M08SSR026",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "026",
+      "CharacterName": "Rin Shibuya",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/wDEuhO2.jpg"
+    },
+    {
+      "Code": "NS02M08SSR027",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "027",
+      "CharacterName": "Sharon Holygrail",
+      "SeriesName": "Engage Kiss",
+      "Rarity": "SSR",
+      "ImageUrl": "https://i.imgur.com/INKv7wP.jpg"
+    },
+    {
+      "Code": "NS02M08SR001",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "001",
+      "CharacterName": "Emilia",
+      "SeriesName": "Re:Zero",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/UCXCyPI.jpg"
+    },
+    {
+      "Code": "NS02M08SR002",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "002",
+      "CharacterName": "Hestia",
+      "SeriesName": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/MRl6B7t.jpg"
+    },
+    {
+      "Code": "NS02M08SR003",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "003",
+      "CharacterName": "Miyako Shikimori",
+      "SeriesName": "Shikimori's Not Just a Cutie",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/BUr57Ap.jpg"
+    },
+    {
+      "Code": "NS02M08SR004",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "004",
+      "CharacterName": "Kotori Itsuka",
+      "SeriesName": "Date A Live",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/yzC5SOU.jpg"
+    },
+    {
+      "Code": "NS02M08SR005",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "005",
+      "CharacterName": "Megumin",
+      "SeriesName": "God's Blessing on this Wonderful World!",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/M2qtGG8.jpg"
+    },
+    {
+      "Code": "NS02M08SR006",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "006",
+      "CharacterName": "Cirno",
+      "SeriesName": "Touhou Project",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/pRXRy7h.jpg"
+    },
+    {
+      "Code": "NS02M08SR007",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "007",
+      "CharacterName": "Syaro Kirima",
+      "SeriesName": "Is the Order a Rabbit?",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/hRed5ak.jpg"
+    },
+    {
+      "Code": "NS02M08SR008",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "008",
+      "CharacterName": "Akabane",
+      "SeriesName": "Vocaloid",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/DiUVrP0.jpg"
+    },
+    {
+      "Code": "NS02M08SR009",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "009",
+      "CharacterName": "Renne Bright",
+      "SeriesName": "The Legend of Heroes: Kuro no Kiseki",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/KQaJTde.jpg"
+    },
+    {
+      "Code": "NS02M08SR010",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "010",
+      "CharacterName": "Amiya",
+      "SeriesName": "Arknights",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/aCulE5F.jpg"
+    },
+    {
+      "Code": "NS02M08SR011",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "011",
+      "CharacterName": "FEater",
+      "SeriesName": "Arknights",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/eozpYHF.jpg"
+    },
+    {
+      "Code": "NS02M08SR012",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "012",
+      "CharacterName": "Mudrock",
+      "SeriesName": "Arknights",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/6uOaWc8.jpg"
+    },
+    {
+      "Code": "NS02M08SR013",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "013",
+      "CharacterName": "Yelan",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/sU83CdA.jpg"
+    },
+    {
+      "Code": "NS02M08SR014",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "014",
+      "CharacterName": "Kanan Matsuura",
+      "SeriesName": "Love Live!",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/nDqHm0x.jpg"
+    },
+    {
+      "Code": "NS02M08SR015",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "015",
+      "CharacterName": "Umi Sonoda",
+      "SeriesName": "Love Live!",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/MdMgRu3.jpg"
+    },
+    {
+      "Code": "NS02M08SR016",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "016",
+      "CharacterName": "Mihono Bourbon",
+      "SeriesName": "Uma Musume Pretty Derby",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/nSexBJz.jpg"
+    },
+    {
+      "Code": "NS02M08SR017",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "017",
+      "CharacterName": "Oguri Cap",
+      "SeriesName": "Uma Musume Pretty Derby",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/MeX5shm.jpg"
+    },
+    {
+      "Code": "NS02M08SR018",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "018",
+      "CharacterName": "Nice Nature",
+      "SeriesName": "Uma Musume Pretty Derby",
+      "Rarity": "SR",
+      "ImageUrl": "https://i.imgur.com/D56RNO3.jpg"
+    },
+    {
+      "Code": "NS02M08R001",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "001",
+      "CharacterName": "Yumeko Jabami",
+      "SeriesName": "Kakegurui",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/SKJv3A4.jpg"
+    },
+    {
+      "Code": "NS02M08R002",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "002",
+      "CharacterName": "Ai Mizuno",
+      "SeriesName": "Zombieland Saga",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/K9yec93.jpg"
+    },
+    {
+      "Code": "NS02M08R003",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "003",
+      "CharacterName": "Hong Meiling",
+      "SeriesName": "Touhou Project",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/K3VczJ0.jpg"
+    },
+    {
+      "Code": "NS02M08R004",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "004",
+      "CharacterName": "Homura Akemi",
+      "SeriesName": "Puella Magi Madoka Magica",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/CX24YaY.jpg"
+    },
+    {
+      "Code": "NS02M08R005",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "005",
+      "CharacterName": "Akane Shinjo",
+      "SeriesName": "SSSS.GRIDMAN",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/3BFng4U.jpg"
+    },
+    {
+      "Code": "NS02M08R006",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "006",
+      "CharacterName": "Rikka Takarada",
+      "SeriesName": "SSSS.GRIDMAN",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/FRx2pSt.jpg"
+    },
+    {
+      "Code": "NS02M08R007",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "007",
+      "CharacterName": "Yume Minami",
+      "SeriesName": "SSSS.DYNAZENON",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/zk06zTZ.jpg"
+    },
+    {
+      "Code": "NS02M08R008",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "008",
+      "CharacterName": "Yukino Yukinoshita",
+      "SeriesName": "My Youth Romantic Comedy Is Wrong As I Expected",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/5EI1bNe.jpg"
+    },
+    {
+      "Code": "NS02M08R009",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "009",
+      "CharacterName": "Origami Tobiichi",
+      "SeriesName": "Date A Live",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/89bMk3N.jpg"
+    },
+    {
+      "Code": "NS02M08R010",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "010",
+      "CharacterName": "Yami",
+      "SeriesName": "To LOVE-Ru",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/h80CjfI.jpg"
+    },
+    {
+      "Code": "NS02M08R011",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "011",
+      "CharacterName": "Yayoi Takatsuki",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/0nSTMDT.jpg"
+    },
+    {
+      "Code": "NS02M08R012",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "012",
+      "CharacterName": "Yukiho Hagiwara",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/OwVLq0L.jpg"
+    },
+    {
+      "Code": "NS02M08R013",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "013",
+      "CharacterName": "Haruka Amami",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/TYgM8MK.jpg"
+    },
+    {
+      "Code": "NS02M08R014",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "014",
+      "CharacterName": "Chihaya Kisaragi",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/uVeYRky.jpg"
+    },
+    {
+      "Code": "NS02M08R015",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "015",
+      "CharacterName": "Makoto Kikuchi",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/oTfCHR6.jpg"
+    },
+    {
+      "Code": "NS02M08R016",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "016",
+      "CharacterName": "Eyjafjalla",
+      "SeriesName": "Arknights",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/b7nAuI9.jpg"
+    },
+    {
+      "Code": "NS02M08R017",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "017",
+      "CharacterName": "Exusiai",
+      "SeriesName": "Arknights",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/lB2f4bY.jpg"
+    },
+    {
+      "Code": "NS02M08R018",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "018",
+      "CharacterName": "Kal'tsit",
+      "SeriesName": "Arknights",
+      "Rarity": "R",
+      "ImageUrl": "https://i.imgur.com/WxDwgma.jpg"
+    },
+    {
+      "Code": "NS02M08PR001",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "001",
+      "CharacterName": "Hatsune Miku",
+      "SeriesName": "Vocaloid",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/5HCTVjL.jpg"
+    },
+    {
+      "Code": "NS02M08PR002",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "002",
+      "CharacterName": "Rem",
+      "SeriesName": "Re:Zero",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/tQgMoIm.jpg"
+    },
+    {
+      "Code": "NS02M08PR003",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "003",
+      "CharacterName": "Flandre Scarlet",
+      "SeriesName": "Touhou Project",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/xs8uCVV.jpg"
+    },
+    {
+      "Code": "NS02M08PR004",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "004",
+      "CharacterName": "Alisa Mikhailovna Kujou",
+      "SeriesName": "Alya, Who Sits Next to Me, Sometimes Whispers Sweet Nothings in Russian",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/Mfeu5OB.jpg"
+    },
+    {
+      "Code": "NS02M08PR005",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "005",
+      "CharacterName": "Marie Antoinette",
+      "SeriesName": "Fate Series",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/YAqRTiE.jpg"
+    },
+    {
+      "Code": "NS02M08PR006",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "006",
+      "CharacterName": "Chiyoko Sonoda",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/kIMECFO.jpg"
+    },
+    {
+      "Code": "NS02M08PR007",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "007",
+      "CharacterName": "Shiki Ichinose",
+      "SeriesName": "The Idolm@ster",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/GMxrCSu.jpg"
+    },
+    {
+      "Code": "NS02M08PR008",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "008",
+      "CharacterName": "Umi Sonoda",
+      "SeriesName": "Love Live!",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/VHkm9Tl.jpg"
+    },
+    {
+      "Code": "NS02M08PR009",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "009",
+      "CharacterName": "Yoshiko Tsushima",
+      "SeriesName": "Love Live!",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/03mVan9.jpg"
+    },
+    {
+      "Code": "NS02M08PR010",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "010",
+      "CharacterName": "Ganyu",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/1hS05jx.jpg"
+    },
+    {
+      "Code": "NS02M08PR011",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "011",
+      "CharacterName": "Hu Tao",
+      "SeriesName": "Genshin Impact",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/yR4QHTK.jpg"
+    },
+    {
+      "Code": "NS02M08PR012",
+      "SetNumber": "NS-02-M08",
+      "CardNumber": "012",
+      "CharacterName": "Rice Shower",
+      "SeriesName": "Uma Musume Pretty Derby",
+      "Rarity": "PR",
+      "ImageUrl": "https://i.imgur.com/PUlZ1fU.jpg"
     }
   ],
   "set_no": [
+    "NNS",
     "NS-01",
     "NS-02",
-    "NS-03",
-    "NS-04",
-    "NS-05",
-    "NS-06",
-    "NS-07",
     "NS-02-M01",
     "NS-02-M02",
     "NS-02-M03",
@@ -28627,50 +30027,56 @@
     "NS-02-M05",
     "NS-02-M06",
     "NS-02-M07",
+    "NS-02-M08",
+    "NS-03",
+    "NS-04",
+    "NS-05",
     "NS-05-M01",
     "NS-05-M02",
     "NS-05-M03",
     "NS-05-M04",
     "NS-05-M05",
     "NS-05-M06",
+    "NS-06",
+    "NS-07",
+    "NS-08",
     "NS-10-M01",
     "NS-10-M02",
     "NS-10-M03",
-    "NS-10-M04",
-    "NNS"
+    "NS-10-M04"
   ],
 
   "rarity": [
-    "SSR",
-    "SR",
-    "R",
-    "PTR",
-    "PR",
-    "ZR",
-    "MR",
-    "XR",
-    "SP",
-    "NTR",
-    "FR",
+    "AR",
     "BGL",
     "BW",
-    "DSR",
-    "LP/99",
-    "LP",
-    "MR/199",
     "CP",
-    "NNS",
-    "XNR",
-    "SSP",
-    "UTR",
-    "MP",
+    "DSR",
+    "FR",
     "FSR",
+    "LP",
+    "LP/99",
+    "MC",
+    "MP",
+    "MR",
+    "MR/199",
+    "NNS",
+    "NTR",
+    "PR",
+    "PTR",
+    "R",
+    "SP",
+    "SR",
+    "SSP",
+    "SSR",
     "UR",
-    "AR",
-    "MC"
+    "UTR",
+    "XNR",
+    "XR",
+    "ZR"
   ],
   "series": [
-    86,
+    "86",
     "A Certain Magical Index",
     "A Silent Voice",
     "Accel World",
@@ -28679,6 +30085,7 @@
     "Akebi's Sailor Uniform",
     "Aldnoah.Zero",
     "Alice Gear Aegis",
+    "Alya, Who Sits Next to Me, Sometimes Whispers Sweet Nothings in Russian",
     "Amagi Brilliant Park",
     "And you thought there is never a girl online?",
     "Angel Beats!",
@@ -28691,7 +30098,6 @@
     "Atelier Series",
     "Attack on Titan",
     "Azur Lane",
-    "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
     "BanG Dream!",
     "Bayonetta",
     "Ben-To",
@@ -28705,6 +30111,7 @@
     "Bloom Into You",
     "Blue Archive",
     "Boarding School Juliet",
+    "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
     "Brynhildr in the Darkness",
     "Bungo Stray Dogs",
     "Burn the Witch",
@@ -28720,7 +30127,6 @@
     "Classroom of the Elite",
     "Code Geass",
     "Cyberpunk Edgerunners",
-    "D-Frag!",
     "D.Va Overwatch",
     "Dagashi Kashi",
     "Danganronpa",
@@ -28731,31 +30137,22 @@
     "Death Note",
     "Demon Slayer",
     "Detective Conan",
+    "D-Frag!",
     "Didn't I Say to Make My Abilities Average in the Next Life?!",
     "Digimon",
     "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
     "Dragonball",
     "Drakengard 3",
     "Dropkick on My Devil!",
-    "ENDRO!",
     "Elden Ring",
+    "ENDRO!",
+    "Engage Kiss",
     "Eromanga Sensei",
     "Eternal City",
     "Eva",
     "Expelled from Paradise",
     "Fairy Tail",
-    "Fate Grand Order",
-    "Fate/Apocrypha",
-    "Fate/EXTELLA",
-    "Fate/EXTRA",
-    "Fate/Extra",
-    "Fate/Grand Order",
-    "Fate/Grand Order Babylonia",
-    "Fate/Grand Order Camelot",
-    "Fate/Labyrinth",
-    "Fate/Zero",
-    "Fate/kaleid liner PRISMA☆ILLYA",
-    "Fate/stay night",
+    "Fate Series",
     "Final Fantasy",
     "Fire Force",
     "Flower Knight Girl",
@@ -28765,14 +30162,14 @@
     "Full Metal Panic!",
     "Fullmetal Alchemist",
     "Future Diary",
-    "GATE",
     "Gabriel DropOut",
+    "GATE",
     "Genshin Impact",
     "Ghost In The Shell",
     "Gintama",
     "Girl Cafe Gun",
-    "Girls Und Panzer",
     "Girls' Frontline",
+    "Girls Und Panzer",
     "Goblin Slayer",
     "God Eater",
     "God's Blessing on this Wonderful World!",
@@ -28803,19 +30200,18 @@
     "How to Raise a Boring Girlfriend",
     "Hyouka",
     "Hyperdimension Neptunia",
-    "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
     "If it's for My Daughter, I'd Even Defeat a Demon Lord",
     "In/Spectre",
     "Interspecies Reviewers",
     "Inuyasha",
     "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-    "Is This a Zombie?",
     "Is the Order a Rabbit?",
+    "Is This a Zombie?",
     "Island",
+    "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
     "JoJo's Bizarre Adventure",
     "Jujutsu Kaisen",
     "K",
-    "K-On!",
     "Kabaneri of the Iron Fortress",
     "Kaede Takagaki",
     "Kaguya-sama: Love is War",
@@ -28831,6 +30227,7 @@
     "Kiniro Mosaic",
     "Kobayashi's Dragon Maid",
     "Komi Can't Communicate",
+    "K-On!",
     "Lagrange: The Flower of Rin-ne",
     "Laid-Back Camp",
     "Land of the Lustrous",
@@ -28841,6 +30238,7 @@
     "Love Live!",
     "Love, Chunibyo & Other Delusions!",
     "Lucky☆Star",
+    "Lycoris Recoil",
     "Macross",
     "Magical Girl Lyrical Nanoha",
     "Mahjong Soul",
@@ -28862,13 +30260,13 @@
     "My Mental Choices Are Completely Interfering With My School Romantic Comedy",
     "My Next Life as A Villainness",
     "My Youth Romantic Comedy Is Wrong As I Expected",
-    "NIKKE: The Goddess Of Victory",
     "Nagi-Asu: A Lull in the Sea",
     "Naruto",
     "Needy Streamer Overload",
     "Nekopara",
     "New Game!",
     "NieR: Automata",
+    "NIKKE: The Goddess Of Victory",
     "Nisekoi: Fake Love",
     "No Game No Life",
     "Noragami",
@@ -28896,7 +30294,6 @@
     "Puella Magi Madoka Magica",
     "Puella Magi Suzune Magica",
     "Punishing: Gray Raven",
-    "RWBY",
     "Rance",
     "Rascal Does Not Dream of Bunny Girl Senpai",
     "Re:CREATORS",
@@ -28910,8 +30307,7 @@
     "Rosario + Vampire",
     "Rozen Maiden",
     "Rurouni Kenshin",
-    "SSSS. GRIDMAN",
-    "SSSS.DYNAZENON",
+    "RWBY",
     "Sailor Moon",
     "Saint Seiya",
     "Saint Tail",
@@ -28925,6 +30321,7 @@
     "Seraph of The End",
     "Shadows House",
     "Shakugan no Shana",
+    "Shikimori's Not Just a Cutie",
     "Shin Chuuka Ichiban!",
     "Shugo Chara!",
     "Sky of Connection",
@@ -28935,23 +30332,25 @@
     "Spice & Wolf",
     "Spice and Wolf",
     "Spy X Family",
+    "SSSS.DYNAZENON",
+    "SSSS.GRIDMAN",
     "Starcraft II",
     "Steins; Gate",
     "Street Fighter",
-    "Strike Witches",
     "Strike the Blood",
+    "Strike Witches",
     "Summer Pockets",
+    "Summer Time Rendering",
     "Summon the Beasts",
     "Super Mario",
     "Suzume No Tojimari",
     "Sword Art Online",
-    "TONIKAWA: Over the Moon For You",
     "Tada Never Falls in Love",
     "Takt Op. Destiny",
     "Tamako Market",
     "Teasing Master Takagi-san",
     "That Time I Got Reincarnated as a Slime",
-    "The \"Hentai\" Prince and the Stony Cat",
+    "The 'Hentai' Prince and the Stony Cat",
     "The Ancient Magus' Bride: Those Awaiting a Star",
     "The Angel Next Door Spoils Me Rotten",
     "The Aquatope on White Sand",
@@ -28971,6 +30370,7 @@
     "The Journey of Elaina",
     "The King of Fighters",
     "The Last of Us",
+    "The Legend of Heroes: Kuro no Kiseki",
     "The Legend of Heroes: Trails of Cold Steel",
     "The Legend of Sword and Fairy (Chinese Paladin)",
     "The Melancholy of Haruhi Suzumiya",
@@ -28982,32 +30382,35 @@
     "The Ryuo's Work is Never Done",
     "The Seven Deadly Sins",
     "The Witcher",
-    "The World's Finest Assassin",
+    "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
     "To LOVE-Ru",
     "Toaru Kagaku no Railgun",
     "Toilet-bound Hanako-kun",
+    "Toji no Miko",
     "Tokyo Ghoul",
     "Tokyo Ravens",
     "Tomb Raider",
+    "TONIKAWA: Over the Moon For You",
     "Toradora",
     "Touhou Project",
     "Tsukihime",
     "Tsuredure Children",
     "Uma Musume Pretty Derby",
     "Unbreakable Machine-Doll",
+    "Uncle from Another World",
     "Urara Meirochou",
     "Utawarerumono",
-    "V-Tuber",
-    "V-Tuber (Independent)",
-    "VSinger",
-    "VTuber",
     "Violet Evergarden",
     "Vivy -Fluorite Eye's Song-",
     "Vocaloid",
-    "WATATEN!: An Angel Flow Down to Me",
+    "VSinger",
+    "VTuber",
+    "V-Tuber",
+    "V-Tuber (Independent)",
     "Wandering Witch: The Journey of Elaina",
     "Warship Girls R",
     "Wasteful Days of High School Girls",
+    "WATATEN!: An Angel Flow Down to Me",
     "We Never Learn!: Bokuben",
     "Weathering with You",
     "Welcome to Demon School! Iruma-kun",
@@ -29019,14 +30422,15 @@
     "World of Warcraft",
     "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
     "Xenoblade",
+    "Ya Boy Kongming!",
     "Yosuga no Sora",
     "You and Me and Her",
     "Your Lie in April",
     "Your Name",
     "Yu-Gi-Oh!",
-    "YuYu Hakusho",
     "YuruYuri: Happy Go Lily",
     "Yuuki Yuuna is a Hero",
+    "YuYu Hakusho",
     "Zombieland Saga"
   ]
 }
