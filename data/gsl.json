@@ -28642,7 +28642,7 @@
       "Code": "NS08SSR004",
       "SetNumber": "NS-08",
       "CardNumber": "004",
-      "CharacterName": "Hatsune Miku",
+      "CharacterName": "Hatsune Miku (Sakura)",
       "SeriesName": "Vocaloid",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/9tilmx5.jpg"
@@ -28985,7 +28985,7 @@
       "SetNumber": "NS-08",
       "CardNumber": "024",
       "CharacterName": "Mai Yanase",
-      "SeriesName": "Toji no Miko",
+      "SeriesName": "Katana Maidens: Toji no Miko",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/MSVEMMi.jpg"
     },
@@ -29011,7 +29011,7 @@
       "Code": "NS08SR027",
       "SetNumber": "NS-08",
       "CardNumber": "027",
-      "CharacterName": "Sangonomiya Kokomi",
+      "CharacterName": "Kokomi Sangonomiya",
       "SeriesName": "Genshin Impact",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/xywiG34.jpg"
@@ -29029,8 +29029,8 @@
       "Code": "NS08SR029",
       "SetNumber": "NS-08",
       "CardNumber": "029",
-      "CharacterName": "Yan he",
-      "SeriesName": "Vocaloid",
+      "CharacterName": "Yanhe",
+      "SeriesName": "VSinger",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/XDkWR4d.jpg"
     },
@@ -29191,7 +29191,7 @@
       "Code": "NS08R011",
       "SetNumber": "NS-08",
       "CardNumber": "011",
-      "CharacterName": "Sunaookami Shiroko",
+      "CharacterName": "Shiroko Sunaookami",
       "SeriesName": "Blue Archive",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/9Ky1e7t.jpg"
@@ -29209,7 +29209,7 @@
       "Code": "NS08R013",
       "SetNumber": "NS-08",
       "CardNumber": "013",
-      "CharacterName": "Seele",
+      "CharacterName": "Seele Vollerei",
       "SeriesName": "Honkai Impact",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/zV5oM4H.jpg"
@@ -29218,7 +29218,7 @@
       "Code": "NS08R014",
       "SetNumber": "NS-08",
       "CardNumber": "014",
-      "CharacterName": "Lisa",
+      "CharacterName": "Lisa Minci",
       "SeriesName": "Genshin Impact",
       "Rarity": "R",
       "ImageUrl": "https://i.imgur.com/1et71cC.jpg"
@@ -29335,7 +29335,7 @@
       "Code": "NS02M08PTR009",
       "SetNumber": "NS-02-M08",
       "CardNumber": "009",
-      "CharacterName": "Lucia",
+      "CharacterName": "Lucia Plume",
       "SeriesName": "Punishing: Gray Raven",
       "Rarity": "PTR",
       "ImageUrl": "https://i.imgur.com/zXuvmNm.jpg"
@@ -29398,7 +29398,7 @@
       "Code": "NS02M08SSR007",
       "SetNumber": "NS-02-M08",
       "CardNumber": "007",
-      "CharacterName": "Kamisato Ayaka",
+      "CharacterName": "Ayaka Kamisato",
       "SeriesName": "Genshin Impact",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/xr1iHGk.jpg"
@@ -29452,7 +29452,7 @@
       "Code": "NS02M08SSR013",
       "SetNumber": "NS-02-M08",
       "CardNumber": "013",
-      "CharacterName": "Kasumizawa Miyu",
+      "CharacterName": "Miyu Kasumizawa",
       "SeriesName": "Blue Archive",
       "Rarity": "SSR",
       "ImageUrl": "https://i.imgur.com/qBRUlqB.jpg"
@@ -29650,7 +29650,7 @@
       "Code": "NS02M08SR008",
       "SetNumber": "NS-02-M08",
       "CardNumber": "008",
-      "CharacterName": "Akabane",
+      "CharacterName": "Chiyu",
       "SeriesName": "Vocaloid",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/DiUVrP0.jpg"
@@ -29660,7 +29660,7 @@
       "SetNumber": "NS-02-M08",
       "CardNumber": "009",
       "CharacterName": "Renne Bright",
-      "SeriesName": "The Legend of Heroes: Kuro no Kiseki",
+      "SeriesName": "The Legend of Heroes: Trails of Cold Steel",
       "Rarity": "SR",
       "ImageUrl": "https://i.imgur.com/KQaJTde.jpg"
     },
@@ -29939,7 +29939,7 @@
       "SetNumber": "NS-02-M08",
       "CardNumber": "004",
       "CharacterName": "Alisa Mikhailovna Kujou",
-      "SeriesName": "Alya, Who Sits Next to Me, Sometimes Whispers Sweet Nothings in Russian",
+      "SeriesName": "Alya Sometimes Hides Her Feelings in Russian",
       "Rarity": "PR",
       "ImageUrl": "https://i.imgur.com/Mfeu5OB.jpg"
     },
@@ -30220,6 +30220,7 @@
     "Kakushigoto",
     "Kantai Collection",
     "Kara no Kyoukai",
+    "Katana Maidens: Toji no Miko",
     "Katanagatari",
     "Kemono Michi: Rise Up",
     "Kiki's Delivery Service",
@@ -30386,7 +30387,6 @@
     "To LOVE-Ru",
     "Toaru Kagaku no Railgun",
     "Toilet-bound Hanako-kun",
-    "Toji no Miko",
     "Tokyo Ghoul",
     "Tokyo Ravens",
     "Tomb Raider",
