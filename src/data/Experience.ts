@@ -3,7 +3,7 @@ export interface ExperienceType {
   subtitle: string;
   website?: string;
   date: string;
-  content: {text: string; list: string[]};
+  content: {text: string; list: string[]; tech: string[]};
 }
 
 export const Experience: ExperienceType[] = [
@@ -20,10 +20,22 @@ export const Experience: ExperienceType[] = [
         'Web application development using React JS and Typescript',
         'API development using Node JS',
       ],
+      tech: [
+        'React.js',
+        'Node.js',
+        'TypeScript',
+        'JavaScript',
+        'Flutter',
+        'Dart',
+        'SQL Server',
+        'HTML',
+        'CSS',
+        'SASS',
+      ],
     },
   },
   {
-    title: 'Software Developer',
+    title: 'Lead Full Stack Software Developer',
     subtitle: 'The Guild Limited - Jersey',
     website: 'https://join.theguildltd.com/',
     date: 'October 2020 - December 2022',
@@ -33,6 +45,18 @@ export const Experience: ExperienceType[] = [
         'Developed The Guild App using Expo, React Native, and Typescript',
         'Developed The Guild Portal using React JS, and Typescript',
         'Developed The Guild Meets using Jitsi',
+      ],
+      tech: [
+        'React.js',
+        'Expo',
+        'React Native',
+        'TypeScript',
+        'JavaScript',
+        'AntD',
+        'Jitsi',
+        'HTML',
+        'CSS',
+        'SASS',
       ],
     },
   },
@@ -49,6 +73,18 @@ export const Experience: ExperienceType[] = [
         'Developed Better App using Expo, React Native, and Typescript',
         'Web application development using Vue JS, React JS, and Typescript',
       ],
+      tech: [
+        'React.js',
+        'Vue.js',
+        'Vuetify',
+        'Expo',
+        'React Native',
+        'TypeScript',
+        'JavaScript',
+        'HTML',
+        'CSS',
+        'SASS',
+      ],
     },
   },
   {
@@ -59,6 +95,7 @@ export const Experience: ExperienceType[] = [
     content: {
       text: 'Maintain communication and programming support.',
       list: [],
+      tech: [],
     },
   },
   {
@@ -74,6 +111,24 @@ export const Experience: ExperienceType[] = [
         'Web application development using C#, ASP.NET MVC4, jQuery, and Bootstrap for an accounting system.',
         'Mobile application development using C#, and Xamarin',
         'Trained and mentored junior programmers in programming methodologies and best practices.',
+      ],
+      tech: [
+        'C#',
+        'VB.NET',
+        '.Net Framework 3.5',
+        '.Net Framework 4.0',
+        'WinForms',
+        'ASP.NET',
+        'ASP.NET MVC',
+        'Xamarin',
+        'DevExpress',
+        'SQL',
+        'MS SQL Server',
+        'HTML',
+        'CSS',
+        'Bootstrap',
+        'jQuery',
+        'JavaScript',
       ],
     },
   },
