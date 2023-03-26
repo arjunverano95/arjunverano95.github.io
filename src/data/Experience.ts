@@ -8,7 +8,7 @@ export interface ExperienceType {
 
 export const Experience: ExperienceType[] = [
   {
-    title: 'Software Developer',
+    title: 'Lead Software Engineer',
     subtitle: 'NOUS Business Solutions, Inc. - California, United States',
     website: 'https://mycaresolutions.net/',
     date: 'April 2020 - Current',
