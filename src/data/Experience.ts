@@ -10,7 +10,7 @@ export const Experience: ExperienceType[] = [
   {
     title: 'Freelance Software Developer',
     subtitle: 'Central Software Solutions - Jersey',
-    website: 'https://www.minute-machine.com/login',
+    website: 'https://www.minute-master.com/login',
     date: 'January 2024 - Present',
     content: {
       text: '',

@@ -23,6 +23,13 @@ export const Projects: ProjectsType[] = [
       'https://drive.google.com/file/d/1ZsDKHi-yjOCD6DnS9RDAipLQCNM_K3xt/view?usp=share_link',
   },
   {
+    title: 'Pokedex',
+    description: `A sample app demonstrating skillful usage of React Native, Expo, Typescript, React Native Elements, Axios, SWR, Mobx and PokeAPI.`,
+    image: 'https://i.imgur.com/mdXsxXI.jpeg',
+    GitHub: 'https://github.com/arjunverano95/pokedex',
+    hosted: '#',
+  },
+  {
     title: 'Portfolio',
     description: `Portfolio website built with React v18.2, Typescript,  react-router-dom v6, framer-motion, react-icons, emailjs`,
     image: 'https://i.imgur.com/di8Aa9W.jpg',
