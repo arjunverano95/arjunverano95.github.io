@@ -1,181 +1,359 @@
 @import '../colors';
+@import '../fonts';
+@import '../values';
 
-.row {
+.experienceCard {
+  position: relative;
   display: flex;
+  align-items: flex-start;
+  width: 100%;
 
-  section {
-    border-radius: 10px;
-    width: calc(50% - 40px);
-    padding: 20px;
-    position: relative;
-    box-shadow: 0 4px 10px 0 rgba(128, 128, 128, 0.5);
-    transition: 0.3s all linear;
+  &.left {
+    justify-content: flex-end;
+    padding-right: calc(50% + 40px);
 
-    &:hover {
-      box-shadow: 0 4px 10px 0 #808080;
+    .card {
+      text-align: right;
     }
 
-    &::before {
-      position: absolute;
-      content: '';
-      height: 15px;
-      width: 15px;
-      background: $white;
-      top: 28px;
-      z-index: -1;
-      transform: rotate(45deg);
+    .timelineDot {
+      right: calc(50% - 10px);
     }
 
-    .icon {
-      position: absolute;
-      background: #f2f2f2;
-      height: 43px;
-      width: 43px;
-      padding: 5px;
-      text-align: center;
-      line-height: 40px;
-      border-radius: 50%;
-      color: $primary;
-      font-size: 17px;
-      box-shadow: 0 0 0 4px $white, inset 0 2px 0 rgba(0, 0, 0, 0.08),
-        0 3px 0 4px rgba(0, 0, 0, 0.05);
-    }
+    @media (max-width: $tablet) {
+      justify-content: flex-start;
+      padding-right: 0;
+      padding-left: 60px;
 
-    .details {
-      // display: flex;
-      // align-items: center;
-      // justify-content: space-between;
-
-      .title {
-        font-size: 24px;
-        font-weight: 500;
-        color: $black;
-        font-family: 'Ubuntu', sans-serif;
-      }
-      .subtitle {
-        font-style: italic;
-      }
-      .date {
-        color: $primary;
-        font-size: 18px;
-        font-family: 'JoseFin sans', sans-serif;
+      .card {
+        text-align: left;
       }
 
-      & p {
-        margin: 0;
+      .timelineDot {
+        right: auto;
+        left: 20px;
       }
     }
-    .buttons {
-      margin: 30px 0 10px 0;
+  }
 
-      .hosted {
-        text-decoration: none;
-        font-size: 1rem;
-        color: #000;
-        // padding: 4px 7px;
-        border-bottom: 2px solid #b8b8b8;
-      }
-    }
-    .badges {
-      display: flex;
-      flex-wrap: wrap;
-      padding-top: 40px;
-      span {
-        cursor: pointer;
-        border-radius: 5px;
-        font-size: 0.8rem;
-        color: #fff;
-        padding: 4px ;
-        margin-top: 5px;
-        margin-right: 5px;
-        background-color:  #000;
-        box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
-      }
-    }
-    ul {
-      list-style: none;
-      margin-left: 0;
-      padding-left: 0;
+  &.right {
+    justify-content: flex-start;
+    padding-left: calc(50% + 40px);
 
-      li {
-        padding-left: 1em;
-        text-indent: -1em;
-      }
-
-      li::before {
-        content: '◉';
-        padding-right: 5px;
-      }
+    .timelineDot {
+      left: calc(50% - 10px);
     }
 
-    p,
-    li {
-      margin: 10px 0;
-      font-size: 18px;
-      line-height: 1.4;
-      letter-spacing: 0.2px;
-      color: $grey;
+    @media (max-width: $tablet) {
+      padding-left: 60px;
+
+      .timelineDot {
+        left: 20px;
+      }
+    }
+  }
+
+  @media (max-width: $tablet) {
+    &.left,
+    &.right {
+      justify-content: flex-start;
+      padding-left: 60px;
+      padding-right: 0;
+
+      .card {
+        text-align: left;
+      }
     }
   }
 }
 
-.row_1 {
-  justify-content: flex-start;
+.timelineDot {
+  position: absolute;
+  top: 24px;
+  width: 20px;
+  height: 20px;
+  background: $surface;
+  border: 3px solid transparent;
+  background-clip: padding-box;
+  border-radius: $radius-full;
+  z-index: 3;
+  cursor: pointer;
 
-  section {
-    &::before {
-      right: -7px;
-    }
-
-    .icon {
-      top: 15px;
-      right: -60px;
-    }
+  &::before {
+    content: '';
+    position: absolute;
+    inset: -3px;
+    background: $gradient-primary;
+    border-radius: inherit;
+    z-index: -1;
   }
 }
 
-.row_2 {
-  justify-content: flex-end;
+.dotInner {
+  width: 100%;
+  height: 100%;
+  background: $gradient-primary;
+  border-radius: $radius-full;
+  transform: scale(0.6);
+  transition: transform $transition-base;
 
-  section {
-    &::before {
-      left: -7px;
-    }
-
-    .icon {
-      top: 15px;
-      left: -60px;
-    }
+  .timelineDot:hover & {
+    transform: scale(0.8);
   }
 }
 
-@media (max-width: 790px) {
-  .row {
-    margin: 30px 0 3px 60px;
+.card {
+  position: relative;
+  background: $surface;
+  border: 1px solid $border;
+  border-radius: $radius-xl;
+  padding: $space-6;
+  max-width: 100%;
+  width: 100%;
+  transition: all $transition-base;
+  overflow: hidden;
 
-    section {
-      width: 100%;
-    }
+  &:hover {
+    border-color: $border-hover;
+    background: $surface-elevated;
+    box-shadow: $shadow-xl;
   }
 
-  .row_1 section::before {
-    left: -7px;
+  @media (max-width: $tablet) {
+    padding: $space-5;
   }
 
-  .row_1 section .icon {
-    left: -60px;
+  @media (max-width: $mobile) {
+    padding: $space-4;
   }
 }
 
-@media (max-width: 440px) {
-  .row {
-    margin: 10px 0;
+.cardHeader {
+  margin-bottom: $space-4;
+}
 
-    section {
-      &::before,
-      .icon {
-        display: none;
-      }
-    }
+.headerContent {
+  display: flex;
+  flex-direction: column;
+  gap: $space-2;
+}
+
+.title {
+  font-family: $font-primary;
+  font-size: $text-xl;
+  font-weight: $font-semibold;
+  color: $text-primary;
+  line-height: $leading-tight;
+  margin: 0;
+
+  @media (max-width: $tablet) {
+    font-size: $text-lg;
+  }
+}
+
+.company {
+  display: flex;
+  align-items: center;
+  gap: $space-2;
+}
+
+.companyLink {
+  display: flex;
+  align-items: center;
+  gap: $space-1;
+  color: $text-secondary;
+  text-decoration: none;
+  font-size: $text-base;
+  font-weight: $font-medium;
+  transition: color $transition-base;
+
+  &:hover {
+    color: $primary;
+  }
+
+  svg {
+    width: 12px;
+    height: 12px;
+    opacity: 0.7;
+  }
+
+  @media (max-width: $tablet) {
+    font-size: $text-sm;
+  }
+}
+
+.companyText {
+  color: $text-secondary;
+  font-size: $text-base;
+  font-weight: $font-medium;
+
+  @media (max-width: $tablet) {
+    font-size: $text-sm;
+  }
+}
+
+.date {
+  font-family: $font-mono;
+  font-size: $text-sm;
+  color: $text-muted;
+  letter-spacing: 0.3px;
+
+  @media (max-width: $tablet) {
+    font-size: $text-xs;
+  }
+}
+
+.description {
+  font-size: $text-sm;
+  color: $text-secondary;
+  line-height: $leading-relaxed;
+  margin: 0 0 $space-4 0;
+
+  @media (max-width: $tablet) {
+    font-size: $text-xs;
+  }
+}
+
+.expandableSection {
+  margin-bottom: $space-4;
+}
+
+.expandButton {
+  display: flex;
+  align-items: center;
+  gap: $space-2;
+  background: transparent;
+  border: 1px solid $border;
+  color: $text-secondary;
+  padding: $space-2 $space-4;
+  border-radius: $radius;
+  font-family: $font-primary;
+  font-size: $text-xs;
+  font-weight: $font-medium;
+  cursor: pointer;
+  transition: all $transition-base;
+  margin-bottom: $space-3;
+
+  &:hover {
+    color: $text-primary;
+    border-color: $border-hover;
+    background: $surface;
+  }
+
+  svg {
+    transition: transform $transition-base;
+  }
+
+  @media (max-width: $mobile) {
+    font-size: 10px;
+    padding: $space-1 $space-3;
+  }
+}
+
+.expandableContent {
+  overflow: hidden;
+}
+
+.responsibilities {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: $space-2;
+}
+
+.responsibility {
+  font-size: $text-xs;
+  color: $text-secondary;
+  line-height: $leading-relaxed;
+  position: relative;
+  padding-left: $space-4;
+
+  &::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: $primary;
+    font-weight: $font-semibold;
+  }
+
+  @media (max-width: $tablet) {
+    font-size: 11px;
+  }
+}
+
+.technologies {
+  display: flex;
+  flex-direction: column;
+  gap: $space-2;
+  margin-top: $space-4;
+}
+
+.techLabel {
+  font-family: $font-mono;
+  font-size: $text-xs;
+  color: $text-muted;
+  font-weight: $font-medium;
+  letter-spacing: 0.5px;
+}
+
+.techList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-2;
+}
+
+.techItem {
+  padding: $space-1 $space-2;
+  background: $background-secondary;
+  color: $text-secondary;
+  border: 1px solid $border;
+  border-radius: $radius-sm;
+  font-family: $font-mono;
+  font-size: 10px;
+  font-weight: $font-medium;
+  transition: all $transition-base;
+  cursor: default;
+
+  &:hover {
+    color: $text-primary;
+    border-color: $border-hover;
+    background: $surface;
+  }
+
+  @media (max-width: $mobile) {
+    font-size: 9px;
+    padding: 2px $space-1;
+  }
+}
+
+.cardGlow {
+  position: absolute;
+  inset: -2px;
+  background: $gradient-primary;
+  border-radius: inherit;
+  opacity: 0;
+  filter: blur(20px);
+  z-index: -1;
+  transition: opacity $transition-base;
+}
+
+// Alternating glow colors for visual variety
+.experienceCard {
+  &:nth-child(4n + 1) .card:hover .cardGlow {
+    background: $gradient-primary;
+  }
+
+  &:nth-child(4n + 2) .card:hover .cardGlow {
+    background: $gradient-secondary;
+  }
+
+  &:nth-child(4n + 3) .card:hover .cardGlow {
+    background: $gradient-accent;
+  }
+
+  &:nth-child(4n + 4) .card:hover .cardGlow {
+    background: $gradient-warm;
   }
 }
