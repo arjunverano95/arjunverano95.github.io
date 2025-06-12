@@ -23,8 +23,8 @@ import {
   SiMysql,
   SiPostman,
   SiTypescript,
-  SiVisualstudiocode,
 } from 'react-icons/si';
+import {VscCode} from 'react-icons/vsc';
 
 interface SkillsType {
   name: string;
@@ -135,7 +135,7 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'VSCode',
-    icon: <SiVisualstudiocode />,
+    icon: <VscCode />,
     link: 'https://code.visualstudio.com/',
   },
   {
