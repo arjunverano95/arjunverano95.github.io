@@ -79,7 +79,9 @@ const ContactPage = () => {
         Contact.emailService.publicKey,
       );
 
-      toast.success("Message sent successfully! I'll get back to you soon.");
+      toast.success(
+        'Message sent successfully! I&apos;ll get back to you soon.',
+      );
       setFormData({name: '', email: '', subject: '', message: ''});
     } catch (error) {
       console.error('Email sending failed:', error);
@@ -132,8 +134,8 @@ const ContactPage = () => {
             Let's <span className={styles.titleAccent}>Connect</span>
           </h1>
           <p className={styles.subtitle}>
-            Have a project in mind or just want to chat? I'd love to hear from
-            you.
+            Have a project in mind or just want to chat? I&apos;d love to hear
+            from you.
           </p>
           <span className={styles.tagClose}>&lt;/contact&gt;</span>
         </motion.div>
@@ -143,8 +145,8 @@ const ContactPage = () => {
             <div className={styles.infoCard}>
               <h3 className={styles.infoTitle}>Get in Touch</h3>
               <p className={styles.infoDescription}>
-                I'm always open to discussing new opportunities, creative ideas,
-                or potential collaborations.
+                I&apos;m always open to discussing new opportunities, creative
+                ideas, or potential collaborations.
               </p>
 
               <div className={styles.contactMethods}>
