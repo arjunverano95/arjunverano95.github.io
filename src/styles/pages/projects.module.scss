@@ -1,50 +1,178 @@
 @import '../colors';
+@import '../fonts';
 @import '../values';
 
 .projects {
   min-height: 100vh;
-  padding: calc(#{$navbarheight} + 1rem) 0 2rem 0;
-  background-color: $background;
-  overflow-x: hidden;
+  padding: calc(#{$navbar-height} + #{$space-8}) $space-4 $space-8;
+  background: $background;
+}
 
-  .wrapper {
-    max-width: 1080px;
-    margin: 20px auto;
-    padding: 0 20px;
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: $space-12;
+
+  @media (max-width: $tablet) {
+    gap: $space-8;
+  }
+}
+
+.header {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.tagOpen,
+.tagClose {
+  font-family: $font-mono;
+  font-size: $text-sm;
+  color: $text-muted;
+  display: block;
+  margin: $space-2 0;
+  letter-spacing: 0.5px;
+
+  @media (max-width: $tablet) {
+    font-size: $text-xs;
+  }
+}
+
+.title {
+  font-family: $font-display;
+  font-size: clamp(#{$text-3xl}, 6vw, #{$text-5xl});
+  font-weight: $font-bold;
+  line-height: $leading-tight;
+  margin: $space-4 0;
+  color: $text-primary;
+}
+
+.titleAccent {
+  background: $gradient-primary;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.subtitle {
+  font-size: $text-lg;
+  color: $text-secondary;
+  line-height: $leading-relaxed;
+  margin-bottom: $space-4;
+
+  @media (max-width: $tablet) {
+    font-size: $text-base;
+  }
+}
+
+.projectsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: $space-8;
+  padding: $space-4 0;
+
+  @media (max-width: $tablet) {
+    grid-template-columns: 1fr;
+    gap: $space-6;
+  }
+
+  @media (max-width: $mobile) {
+    grid-template-columns: 1fr;
+    gap: $space-4;
+  }
+}
+
+.projectWrapper {
+  display: flex;
+  width: 100%;
+}
+
+.callToAction {
+  text-align: center;
+  padding: $space-12 $space-4;
+  border-top: 1px solid $border;
+  margin-top: $space-8;
+
+  @media (max-width: $tablet) {
+    padding: $space-8 $space-4;
+    margin-top: $space-6;
+  }
+}
+
+.ctaTitle {
+  font-family: $font-display;
+  font-size: $text-2xl;
+  font-weight: $font-semibold;
+  color: $text-primary;
+  margin-bottom: $space-4;
+
+  @media (max-width: $tablet) {
+    font-size: $text-xl;
+  }
+}
+
+.ctaDescription {
+  font-size: $text-lg;
+  color: $text-secondary;
+  line-height: $leading-relaxed;
+  margin-bottom: $space-6;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media (max-width: $tablet) {
+    font-size: $text-base;
+    margin-bottom: $space-4;
+  }
+}
+
+.ctaButton {
+  display: inline-flex;
+  align-items: center;
+  gap: $space-2;
+  padding: $space-4 $space-8;
+  background: $gradient-primary;
+  color: $text-primary;
+  text-decoration: none;
+  border-radius: $radius-lg;
+  font-family: $font-primary;
+  font-size: $text-base;
+  font-weight: $font-semibold;
+  transition: all $transition-base;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: $gradient-secondary;
+    opacity: 0;
+    transition: opacity $transition-base;
+  }
+
+  &:hover::before {
+    opacity: 1;
+  }
+
+  span,
+  svg {
     position: relative;
+    z-index: 1;
+  }
 
-    .projectsOpen {
-      font-size: 2rem;
-      font-weight: 600;
-      margin-bottom: 2rem;
-      color: $white;
-      background: $primary;
-      border-radius: 10px;
-      width: fit-content;
-      padding: 8px 10px;
-      font-family: 'Ubuntu Mono', monospace;
-      letter-spacing: 0.5px;
-    }
+  svg {
+    transition: transform $transition-base;
+  }
 
-    .projectsClose {
-      font-size: 2rem;
-      font-weight: 600;
-      margin-top: 3rem;
-      color: $white;
-      background: $primary;
-      border-radius: 10px;
-      width: fit-content;
-      padding: 8px 10px;
-      font-family: 'Ubuntu Mono', monospace;
-      letter-spacing: 0.5px;
-    }
+  &:hover svg {
+    transform: translateX(4px);
+  }
 
-    .projects_content {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 3.6rem;
-    }
+  @media (max-width: $mobile) {
+    padding: $space-3 $space-6;
+    font-size: $text-sm;
   }
 }
