@@ -12,22 +12,22 @@ interface LinksType {
 export const Links: LinksType[] = [
   {
     title: 'GitHub',
-    icon: <ImGithub color="#000000dc" />,
+    icon: <ImGithub />,
     link: 'https://github.com/arjunverano95',
   },
   {
     title: 'LinkedIn',
-    icon: <ImLinkedin color="#000000dc" />,
+    icon: <ImLinkedin />,
     link: 'https://www.linkedin.com/in/arjun-verano/',
   },
   {
     title: 'Facebook',
-    icon: <FaFacebook color="#000000dc" />,
+    icon: <FaFacebook />,
     link: 'https://www.facebook.com/enth.astrarle/',
   },
   {
     title: 'Instagram',
-    icon: <SiInstagram color="#000000dc" />,
+    icon: <SiInstagram />,
     link: 'https://www.instagram.com/shiroganedesu/',
   },
 ];
