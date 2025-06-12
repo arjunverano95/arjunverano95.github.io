@@ -1,4 +1,3 @@
-const Flip = require('react-reveal/Flip');
 import {motion} from 'framer-motion';
 import React from 'react';
 
@@ -9,6 +8,23 @@ import {pageTransition, pageVariants} from '../utils/FramerAnimation';
 
 const projectsOpen = '<projects>';
 const projectsClose = '</projects>';
+
+const flipVariants = {
+  hidden: (direction: 'top' | 'bottom') => ({
+    opacity: 0,
+    rotateX: direction === 'top' ? -90 : 90,
+    y: direction === 'top' ? -50 : 50,
+  }),
+  visible: {
+    opacity: 1,
+    rotateX: 0,
+    y: 0,
+    transition: {
+      duration: 0.6,
+      ease: 'easeOut',
+    },
+  },
+};
 
 const ProjectsPage = () => {
   return (
@@ -26,27 +42,39 @@ const ProjectsPage = () => {
           <div className={styles.projects_content}>
             {Projects.map((item, index) =>
               index % 2 === 0 ? (
-                <Flip top key={item.title}>
+                <motion.div
+                  key={item.title}
+                  variants={flipVariants}
+                  initial="hidden"
+                  whileInView="visible"
+                  viewport={{once: true, amount: 0.3}}
+                  custom="top"
+                >
                   <ProjectCard
-                    key={item.title}
                     title={item.title}
                     description={item.description}
                     image={item.image}
                     gitHub={item.GitHub}
                     hosted={item.hosted}
                   />
-                </Flip>
+                </motion.div>
               ) : (
-                <Flip bottom key={item.title}>
+                <motion.div
+                  key={item.title}
+                  variants={flipVariants}
+                  initial="hidden"
+                  whileInView="visible"
+                  viewport={{once: true, amount: 0.3}}
+                  custom="bottom"
+                >
                   <ProjectCard
-                    key={item.title}
                     title={item.title}
                     description={item.description}
                     image={item.image}
                     gitHub={item.GitHub}
                     hosted={item.hosted}
                   />
-                </Flip>
+                </motion.div>
               ),
             )}
           </div>
