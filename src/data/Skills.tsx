@@ -7,26 +7,24 @@ import {
   FaReact,
   FaSass,
   FaVuejs,
+  FaDatabase,
+  FaApple,
 } from 'react-icons/fa';
 import {ImGit} from 'react-icons/im';
 import {IoLogoJavascript} from 'react-icons/io';
 import {
   SiBootstrap,
-  SiCsharp,
   SiCss3,
   SiDart,
   SiDotnet,
   SiExpo,
   SiFlutter,
-  SiIos,
   SiJquery,
   SiMysql,
   SiPostman,
   SiTypescript,
   SiVisualstudiocode,
-  SiXcode,
 } from 'react-icons/si';
-import {FaDatabase} from 'react-icons/fa';
 
 interface SkillsType {
   name: string;
@@ -72,8 +70,8 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'IOS',
-    icon: <SiIos />,
-    link: 'https://developer.android.com/',
+    icon: <FaApple />,
+    link: 'https://developer.apple.com/',
   },
   {
     name: 'Flutter',
@@ -97,7 +95,7 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'C#',
-    icon: <SiCsharp />,
+    icon: <SiDotnet />,
     link: 'https://learn.microsoft.com/en-us/dotnet/csharp/',
   },
   {
@@ -142,7 +140,7 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'Xcode',
-    icon: <SiXcode />,
+    icon: <FaApple />,
     link: 'https://developer.apple.com/xcode/',
   },
   {
