@@ -99,7 +99,7 @@ const ProjectsPage = () => {
         >
           <h3 className={styles.ctaTitle}>Interested in working together?</h3>
           <p className={styles.ctaDescription}>
-            I'm always open to discussing new opportunities and exciting
+            I&apos;m always open to discussing new opportunities and exciting
             projects.
           </p>
           <motion.a
