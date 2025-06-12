@@ -1,11 +1,5 @@
 import React from 'react';
-import {
-  FiHome,
-  FiUser,
-  FiBriefcase,
-  FiFolderOpen,
-  FiMail,
-} from 'react-icons/fi';
+import {FiHome, FiUser, FiBriefcase, FiFolder, FiMail} from 'react-icons/fi';
 
 interface NavLinkType {
   title: string;
@@ -32,7 +26,7 @@ export const NavLinks: NavLinkType[] = [
   {
     title: 'Projects',
     link: '/projects',
-    icon: React.createElement(FiFolderOpen),
+    icon: React.createElement(FiFolder),
   },
   {
     title: 'Contact',
