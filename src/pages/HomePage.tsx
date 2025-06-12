@@ -1,7 +1,7 @@
 import {motion} from 'framer-motion';
 import React from 'react';
 
-import profilePic from '../assets/profile.png';
+import profilePic from '../assets/profile.svg';
 import {About, Links} from '../data';
 import styles from '../styles/pages/home.module.scss';
 
