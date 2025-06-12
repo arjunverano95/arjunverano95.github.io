@@ -1,27 +1,42 @@
+import React from 'react';
+import {
+  FiHome,
+  FiUser,
+  FiBriefcase,
+  FiFolderOpen,
+  FiMail,
+} from 'react-icons/fi';
+
 interface NavLinkType {
   title: string;
-  linkTo: string;
+  link: string;
+  icon: React.ReactElement;
 }
 
 export const NavLinks: NavLinkType[] = [
   {
     title: 'Home',
-    linkTo: '/',
+    link: '/',
+    icon: React.createElement(FiHome),
   },
   {
     title: 'Skills',
-    linkTo: '/skills',
+    link: '/skills',
+    icon: React.createElement(FiUser),
   },
   {
     title: 'Experience',
-    linkTo: '/experience',
+    link: '/experience',
+    icon: React.createElement(FiBriefcase),
   },
   {
     title: 'Projects',
-    linkTo: '/projects',
+    link: '/projects',
+    icon: React.createElement(FiFolderOpen),
   },
   {
     title: 'Contact',
-    linkTo: '/contact',
+    link: '/contact',
+    icon: React.createElement(FiMail),
   },
 ];
