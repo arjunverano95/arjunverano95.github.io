@@ -20,13 +20,13 @@ import {
   SiFlutter,
   SiIos,
   SiJquery,
-  SiMicrosoftsqlserver,
   SiMysql,
   SiPostman,
   SiTypescript,
   SiVisualstudiocode,
   SiXcode,
 } from 'react-icons/si';
+import {FaDatabase} from 'react-icons/fa';
 
 interface SkillsType {
   name: string;
@@ -92,7 +92,7 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'SQL Server',
-    icon: <SiMicrosoftsqlserver />,
+    icon: <FaDatabase />,
     link: 'https://www.microsoft.com/en-us/sql-server',
   },
   {
