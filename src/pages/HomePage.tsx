@@ -1,5 +1,4 @@
-const Zoom = require('react-reveal/Zoom');
-
+import {motion} from 'framer-motion';
 import React from 'react';
 
 import profilePic from '../assets/profile.png';
@@ -8,14 +7,40 @@ import styles from '../styles/pages/home.module.scss';
 
 const welcomeText = `I am, ${About.firstName}  ${About.lastName}`;
 
+const zoomVariants = {
+  hidden: {
+    opacity: 0,
+    scale: 0.8,
+  },
+  visible: (i: number) => ({
+    opacity: 1,
+    scale: 1,
+    transition: {
+      delay: i * 0.2,
+      duration: 0.6,
+      ease: 'easeOut',
+    },
+  }),
+};
+
 const HomePage = () => {
   return (
     <div className={styles.home}>
-      <Zoom cascade>
+      <motion.div
+        variants={zoomVariants}
+        initial="hidden"
+        animate="visible"
+        custom={0}
+      >
         <img src={profilePic} alt="Profile" className={styles.image} />
         <h2 className={styles.title}>{welcomeText}</h2>
-      </Zoom>
-      <Zoom cascade>
+      </motion.div>
+      <motion.div
+        variants={zoomVariants}
+        initial="hidden"
+        animate="visible"
+        custom={1}
+      >
         <h3 className={styles.about}>{About.about1}</h3>
         <h3 className={styles.about_next}>{About.about2}</h3>
         <div className={styles.links}>
@@ -30,7 +55,7 @@ const HomePage = () => {
             </a>
           ))}
         </div>
-      </Zoom>
+      </motion.div>
     </div>
   );
 };
