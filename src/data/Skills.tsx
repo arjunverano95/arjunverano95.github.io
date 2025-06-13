@@ -28,7 +28,7 @@ import {VscCode} from 'react-icons/vsc';
 
 interface SkillsType {
   name: string;
-  icon: any;
+  icon: React.ReactElement;
   link: string;
 }
 
