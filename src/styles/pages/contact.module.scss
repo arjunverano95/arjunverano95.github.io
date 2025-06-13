@@ -1,112 +1,461 @@
 @import '../colors';
+@import '../fonts';
 @import '../values';
 
 .contact {
   min-height: 100vh;
-  padding: calc(#{$navbarheight} + 2rem) 2rem 2rem 2rem;
-  background-color: $background;
+  padding: calc(#{$navbar-height} + #{$space-8}) $space-4 $space-8;
+  background: $background;
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  gap: $space-12;
+
+  @media (max-width: $tablet) {
+    gap: $space-8;
+  }
+}
+
+.header {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.tagOpen,
+.tagClose {
+  font-family: $font-mono;
+  font-size: $text-sm;
+  color: $text-muted;
+  display: block;
+  margin: $space-2 0;
+  letter-spacing: 0.5px;
+
+  @media (max-width: $tablet) {
+    font-size: $text-xs;
+  }
+}
+
+.title {
+  font-family: $font-display;
+  font-size: clamp(#{$text-3xl}, 6vw, #{$text-5xl});
+  font-weight: $font-bold;
+  line-height: $leading-tight;
+  margin: $space-4 0;
+  color: $text-primary;
+}
+
+.titleAccent {
+  background: $gradient-primary;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.subtitle {
+  font-size: $text-lg;
+  color: $text-secondary;
+  line-height: $leading-relaxed;
+  margin-bottom: $space-4;
+
+  @media (max-width: $tablet) {
+    font-size: $text-base;
+  }
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: $space-12;
+  align-items: start;
+
+  @media (max-width: $desktop) {
+    grid-template-columns: 1fr;
+    gap: $space-8;
+  }
+}
+
+.contactInfo {
+  position: sticky;
+  top: calc(#{$navbar-height} + #{$space-4});
+
+  @media (max-width: $desktop) {
+    position: static;
+  }
+}
+
+.infoCard {
+  background: $surface;
+  border: 1px solid $border;
+  border-radius: $radius-xl;
+  padding: $space-8;
+  display: flex;
+  flex-direction: column;
+  gap: $space-6;
+
+  @media (max-width: $tablet) {
+    padding: $space-6;
+    gap: $space-5;
+  }
+}
+
+.infoTitle {
+  font-family: $font-display;
+  font-size: $text-2xl;
+  font-weight: $font-semibold;
+  color: $text-primary;
+  margin: 0;
+
+  @media (max-width: $tablet) {
+    font-size: $text-xl;
+  }
+}
+
+.infoDescription {
+  font-size: $text-base;
+  color: $text-secondary;
+  line-height: $leading-relaxed;
+  margin: 0;
+
+  @media (max-width: $tablet) {
+    font-size: $text-sm;
+  }
+}
+
+.contactMethods {
+  display: flex;
+  flex-direction: column;
+  gap: $space-4;
+}
+
+.contactMethod {
+  display: flex;
   align-items: center;
+  gap: $space-4;
+  padding: $space-4;
+  background: $background-secondary;
+  border: 1px solid $border;
+  border-radius: $radius-lg;
+  transition: all $transition-base;
 
-  .wrapper {
-    max-width: 1080px;
-    margin: 20px auto;
-    padding: 25px 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 2rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.8);
-
-    .form {
-      display: flex;
-      flex-direction: column;
-
-      .contactOpen {
-        font-size: 2rem;
-        font-weight: 600;
-        margin-bottom: 1.5rem;
-        color: #000000b0;
-      }
-
-      form {
-        display: flex;
-        flex-direction: column;
-
-        input,
-        textarea {
-          border: none;
-          outline: none;
-          margin: 0.7rem 0;
-          border-radius: 5px;
-          box-shadow: 0 2px 8px 0 rgba(128, 128, 128, 0.3);
-          font-size: 1.2rem;
-          padding: 0.8rem;
-          background-color: #eff3f5;
-          font-family: 'Josefin Sans';
-          font-weight: 500;
-          color: $black;
-        }
-
-        textarea {
-          resize: none;
-          padding: 1rem 0.8rem;
-        }
-
-        button {
-          margin-top: 1rem;
-          padding: 0.8rem 0.5rem 0.5rem;
-          outline: none;
-          border: none;
-          border-radius: 5px;
-          background-color: $primary;
-          font-size: 1.5rem;
-          font-weight: 500;
-          font-family: 'Josefin Sans', sans-serif;
-          color: $white;
-          text-align: center;
-          cursor: pointer;
-          box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.4);
-        }
-      }
-    }
-
-    .lottie {
-      height: 380px;
-      width: 380px;
-    }
+  &:hover {
+    border-color: $border-hover;
+    background: $surface;
   }
 }
 
-@media (max-width: 900px) {
-  .contact {
-    .wrapper {
-      flex-direction: column-reverse;
-      width: 85vw;
-      padding: 2rem;
+.methodIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: $gradient-primary;
+  border-radius: $radius-lg;
+  color: $text-primary;
+  flex-shrink: 0;
 
-      .form {
-        width: 80%;
-      }
-
-      .lottie {
-        height: 250px;
-        width: 250px;
-      }
-    }
+  svg {
+    width: 20px;
+    height: 20px;
   }
 }
 
-@media (max-width: 500px) {
-  .contact {
-    .wrapper {
-      padding: 1.2rem;
+.methodContent {
+  display: flex;
+  flex-direction: column;
+  gap: $space-1;
+}
 
-      .form {
-        width: 100%;
-      }
+.methodLabel {
+  font-size: $text-xs;
+  color: $text-muted;
+  font-weight: $font-medium;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.methodValue {
+  font-size: $text-sm;
+  color: $text-primary;
+  font-weight: $font-medium;
+
+  @media (max-width: $mobile) {
+    font-size: $text-xs;
+  }
+}
+
+.socialLinks {
+  display: flex;
+  flex-direction: column;
+  gap: $space-3;
+}
+
+.socialTitle {
+  font-size: $text-base;
+  color: $text-primary;
+  font-weight: $font-semibold;
+  margin: 0;
+
+  @media (max-width: $tablet) {
+    font-size: $text-sm;
+  }
+}
+
+.socialGrid {
+  display: flex;
+  gap: $space-3;
+  flex-wrap: wrap;
+}
+
+.socialLink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background: $surface-elevated;
+  border: 1px solid $border;
+  border-radius: $radius-lg;
+  color: $text-secondary;
+  text-decoration: none;
+  transition: all $transition-base;
+
+  &:hover {
+    color: $text-primary;
+    border-color: $border-hover;
+    background: $surface;
+    box-shadow: $shadow-glow;
+  }
+
+  svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+  }
+}
+
+.cvButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: $space-2;
+  padding: $space-4 $space-6;
+  background: $gradient-primary;
+  color: $text-primary;
+  text-decoration: none;
+  border-radius: $radius-lg;
+  font-family: $font-primary;
+  font-size: $text-sm;
+  font-weight: $font-semibold;
+  transition: all $transition-base;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: $gradient-secondary;
+    opacity: 0;
+    transition: opacity $transition-base;
+  }
+
+  &:hover::before {
+    opacity: 1;
+  }
+
+  span,
+  svg {
+    position: relative;
+    z-index: 1;
+  }
+
+  svg {
+    transition: transform $transition-base;
+  }
+
+  &:hover svg {
+    transform: translateY(2px);
+  }
+}
+
+.formContainer {
+  background: $surface;
+  border: 1px solid $border;
+  border-radius: $radius-xl;
+  padding: $space-8;
+
+  @media (max-width: $tablet) {
+    padding: $space-6;
+  }
+
+  @media (max-width: $mobile) {
+    padding: $space-4;
+  }
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: $space-6;
+
+  @media (max-width: $tablet) {
+    gap: $space-5;
+  }
+}
+
+.formGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: $space-4;
+
+  @media (max-width: $tablet) {
+    grid-template-columns: 1fr;
+    gap: $space-3;
+  }
+}
+
+.formGroup {
+  display: flex;
+  flex-direction: column;
+  gap: $space-2;
+}
+
+.label {
+  font-size: $text-sm;
+  color: $text-primary;
+  font-weight: $font-medium;
+  letter-spacing: 0.3px;
+
+  @media (max-width: $tablet) {
+    font-size: $text-xs;
+  }
+}
+
+.input,
+.textarea {
+  padding: $space-4;
+  background: $background-secondary;
+  border: 1px solid $border;
+  border-radius: $radius-lg;
+  color: $text-primary;
+  font-family: $font-primary;
+  font-size: $text-sm;
+  transition: all $transition-base;
+  resize: vertical;
+
+  &::placeholder {
+    color: $text-muted;
+  }
+
+  &:focus {
+    outline: none;
+    border-color: $primary;
+    background: $surface;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  }
+
+  &.error {
+    border-color: $error;
+    background: rgba(239, 68, 68, 0.05);
+
+    &:focus {
+      box-shadow: 0 0 0 3px rgba(239, 68, 68, 0.1);
     }
+  }
+
+  @media (max-width: $tablet) {
+    padding: $space-3;
+    font-size: $text-xs;
+  }
+}
+
+.textarea {
+  min-height: 120px;
+  font-family: $font-primary;
+  line-height: $leading-relaxed;
+}
+
+.errorMessage {
+  font-size: $text-xs;
+  color: $error;
+  font-weight: $font-medium;
+  margin-top: $space-1;
+}
+
+.submitButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: $space-2;
+  padding: $space-4 $space-8;
+  background: $gradient-primary;
+  color: $text-primary;
+  border: none;
+  border-radius: $radius-lg;
+  font-family: $font-primary;
+  font-size: $text-base;
+  font-weight: $font-semibold;
+  cursor: pointer;
+  transition: all $transition-base;
+  position: relative;
+  overflow: hidden;
+  min-height: 56px;
+
+  &:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: $gradient-secondary;
+    opacity: 0;
+    transition: opacity $transition-base;
+  }
+
+  &:hover:not(:disabled)::before {
+    opacity: 1;
+  }
+
+  span,
+  svg {
+    position: relative;
+    z-index: 1;
+  }
+
+  svg {
+    transition: transform $transition-base;
+  }
+
+  &:hover:not(:disabled) svg {
+    transform: translateX(4px);
+  }
+
+  @media (max-width: $mobile) {
+    padding: $space-3 $space-6;
+    font-size: $text-sm;
+  }
+}
+
+.loadingSpinner {
+  width: 20px;
+  height: 20px;
+  border: 2px solid transparent;
+  border-top: 2px solid currentColor;
+  border-radius: $radius-full;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
   }
 }

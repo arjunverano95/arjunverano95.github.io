@@ -1,0 +1,133 @@
+@import '../colors';
+@import '../fonts';
+@import '../values';
+
+.linkButton {
+  display: inline-flex;
+  align-items: center;
+  gap: $space-2;
+  padding: $space-3 $space-6;
+  border-radius: $radius-lg;
+  text-decoration: none;
+  font-family: $font-primary;
+  font-weight: $font-medium;
+  transition: all $transition-base;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid transparent;
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity $transition-base;
+  }
+
+  &:hover::before {
+    opacity: 1;
+  }
+
+  .icon,
+  .label {
+    position: relative;
+    z-index: 1;
+  }
+
+  .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    svg {
+      width: 16px;
+      height: 16px;
+      fill: currentColor;
+    }
+  }
+
+  .label {
+    font-size: $text-sm;
+    letter-spacing: 0.3px;
+  }
+
+  // Variants
+  &.primary {
+    background: $gradient-primary;
+    color: $text-primary;
+
+    &::before {
+      background: $gradient-secondary;
+    }
+  }
+
+  &.secondary {
+    background: $surface;
+    color: $text-primary;
+    border-color: $border;
+
+    &::before {
+      background: $gradient-primary;
+    }
+
+    &:hover {
+      border-color: transparent;
+    }
+  }
+
+  &.outline {
+    background: transparent;
+    color: $text-secondary;
+    border-color: $border;
+
+    &::before {
+      background: $surface;
+    }
+
+    &:hover {
+      color: $text-primary;
+      border-color: $border-hover;
+    }
+  }
+
+  // Sizes
+  &.sm {
+    padding: $space-2 $space-4;
+
+    .label {
+      font-size: $text-xs;
+    }
+
+    .icon svg {
+      width: 14px;
+      height: 14px;
+    }
+  }
+
+  &.md {
+    padding: $space-3 $space-6;
+
+    .label {
+      font-size: $text-sm;
+    }
+
+    .icon svg {
+      width: 16px;
+      height: 16px;
+    }
+  }
+
+  &.lg {
+    padding: $space-4 $space-8;
+
+    .label {
+      font-size: $text-base;
+    }
+
+    .icon svg {
+      width: 18px;
+      height: 18px;
+    }
+  }
+}

@@ -1,129 +1,259 @@
 @import '../colors';
+@import '../fonts';
 @import '../values';
 
 .navbar {
   position: fixed;
   top: 0;
   left: 0;
-  height: $navbarheight;
-  width: 100%;
-  padding: 0 3vw;
-  // background-color: #dbecff;
-  background: $primary;
-  // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  z-index: 10;
+  right: 0;
+  z-index: $z-fixed;
+  padding: $space-4 0;
+  background: rgba(10, 10, 11, 0.8);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid $border;
+  transition: all $transition-base;
+
+  &.scrolled {
+    padding: $space-3 0;
+    background: rgba(10, 10, 11, 0.95);
+    border-bottom-color: $border-hover;
+    box-shadow: $shadow-lg;
+  }
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 0 $container-padding;
   display: flex;
+  align-items: center;
   justify-content: space-between;
-  align-items: center;
-  // border-bottom: 2px solid #000000e7;
 
-  .logo {
-    font-size: 2rem;
-    letter-spacing: 0.01vw;
-    cursor: pointer;
-    color: $white;
-    transition: all 0.3s ease;
-  }
-
-  .desktopitems {
-    .link {
-      text-decoration: none;
-      padding: 0.5vw 0.7vw;
-      margin: 0 0.5vw;
-      transition: 0.5s all ease-in-out;
-      color: $white;
-      font-size: 1.3rem;
-      font-weight: 500;
-      letter-spacing: 1px;
-      border-radius: 4px;
-      transition: 0.3s all ease-in-out;
-
-      &:hover {
-        background-color: rgba(68, 68, 68, 0.2);
-      }
-
-      &.btncv {
-        background-color: #238636;
-        &:hover {
-          background-color: #2ea043;
-        }
-      }
-    }
-  }
-
-  .mobileview {
-    .mobilemenu {
-      position: absolute;
-      right: 3vw;
-      top: 12.9px;
-      // background-color: rgba(0, 0, 0, 0.06);
-      padding: 6px 7px 4px 7px;
-      border-radius: 10px;
-      cursor: pointer;
-      transform: scale(1);
-      transition: 0.3s all ease-in-out;
-
-      // &:hover {
-      //   background-color: rgba(0, 0, 0, 0.08);
-      // }
-    }
-
-    .active {
-      transform: scale(0);
-      transition: 0.3s all ease-in-out;
-    }
+  @media (max-width: $tablet) {
+    padding: 0 $space-4;
   }
 }
 
-.mobileMenuModal {
-  position: fixed;
-  background-color: $primary;
-  left: 0;
-  top: 0;
-  width: 100%;
-  min-height: 100vh;
-  z-index: 5;
-  transform: translateY(-100%);
-  transition: 0.4s all ease-in-out;
+.logo {
+  cursor: pointer;
+  user-select: none;
+}
 
-  padding: calc(#{$navbarheight} + 3rem) 0 3rem 0;
+.logoText {
+  font-family: $font-mono;
+  font-size: $text-xl;
+  font-weight: $font-semibold;
+  color: $text-primary;
+  letter-spacing: -0.5px;
+}
+
+.logoAccent {
+  background: $gradient-primary;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.desktopNav {
   display: flex;
-  flex-direction: column;
-  justify-content: space-around;
   align-items: center;
-  @media (min-width: 850px) {
+  gap: $space-2;
+
+  @media (max-width: $tablet) {
     display: none;
   }
-  .mobileLinks {
-    text-decoration: none;
-    padding: 10px;
-    color: $white;
-    font-size: 1.6rem;
-    font-weight: 500;
-    letter-spacing: 1px;
+}
 
-    &.mobileBtncv {
-      background-color: #238636;
-      &:hover {
-        background-color: #2ea043;
+.navItem {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: $space-2;
+  padding: $space-3 $space-4;
+  border: none;
+  background: transparent;
+  color: $text-secondary;
+  font-family: $font-primary;
+  font-size: $text-sm;
+  font-weight: $font-medium;
+  border-radius: $radius-lg;
+  cursor: pointer;
+  transition: all $transition-base;
+
+  &:hover {
+    color: $text-primary;
+    background: $surface;
+    transform: translateY(-2px);
+  }
+
+  &.active {
+    color: $text-primary;
+    background: $surface-elevated;
+  }
+}
+
+.navIcon {
+  font-size: $text-base;
+  opacity: 0.8;
+  transition: opacity $transition-base;
+
+  .navItem:hover & {
+    opacity: 1;
+  }
+}
+
+.navText {
+  font-size: $text-sm;
+  letter-spacing: 0.3px;
+}
+
+.activeIndicator {
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 20px;
+  height: 2px;
+  background: $gradient-primary;
+  border-radius: $radius-full;
+}
+
+.mobileMenuButton {
+  display: none;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: $space-2;
+  border-radius: $radius;
+
+  @media (max-width: $tablet) {
+    display: block;
+  }
+}
+
+.hamburger {
+  position: relative;
+  display: block;
+  width: 24px;
+  height: 18px;
+
+  span {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: $text-primary;
+    border-radius: 1px;
+    transition: all 0.3s ease;
+
+    &:nth-child(1) {
+      top: 0;
+    }
+
+    &:nth-child(2) {
+      top: 8px;
+    }
+
+    &:nth-child(3) {
+      top: 16px;
+    }
+  }
+
+  &.open {
+    span {
+      &:nth-child(1) {
+        transform: rotate(45deg);
+        top: 8px;
+      }
+
+      &:nth-child(2) {
+        opacity: 0;
+        transform: scale(0);
+      }
+
+      &:nth-child(3) {
+        transform: rotate(-45deg);
+        top: 8px;
       }
     }
   }
 }
 
-.active {
-  transform: translateY(0);
-  transition: 0.4s all ease-in-out;
-}
+.mobileNav {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: rgba(26, 26, 27, 0.98);
+  backdrop-filter: blur(20px);
+  border: 1px solid $border;
+  border-top: none;
+  border-radius: 0 0 $radius-xl $radius-xl;
+  padding: $space-4;
+  display: none;
+  flex-direction: column;
+  gap: $space-2;
 
-@media (max-width: 850px) {
-  .desktopitems {
-    display: none;
+  @media (max-width: $tablet) {
+    display: flex;
+  }
+
+  &.open {
+    box-shadow: $shadow-xl;
   }
 }
 
-@media (min-width: 850px) {
-  .mobileview {
-    display: none;
+.mobileNavItem {
+  display: flex;
+  align-items: center;
+  gap: $space-3;
+  padding: $space-4;
+  border: none;
+  background: transparent;
+  color: $text-secondary;
+  font-family: $font-primary;
+  font-size: $text-base;
+  font-weight: $font-medium;
+  border-radius: $radius-lg;
+  cursor: pointer;
+  transition: all $transition-base;
+  text-align: left;
+
+  &:hover {
+    color: $text-primary;
+    background: $surface;
+  }
+
+  &.active {
+    color: $text-primary;
+    background: $surface-elevated;
+    position: relative;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 3px;
+      height: 20px;
+      background: $gradient-primary;
+      border-radius: $radius-full;
+    }
+  }
+}
+
+.mobileOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+
+  @media (max-width: $tablet) {
+    display: block;
   }
 }

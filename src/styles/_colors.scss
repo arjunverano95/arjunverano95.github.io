@@ -1,6 +1,43 @@
-$background: #f7f7f7;
+// Modern Dark Theme Color System
+$background: #0a0a0b;
+$background-secondary: #111111;
+$surface: #1a1a1b;
+$surface-elevated: #242425;
 
-$primary: #161b22;
-$grey: #72777e;
-$white: #f7f7f7;
-$black: #333333;
+// Gradient Colors
+$gradient-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+$gradient-secondary: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+$gradient-accent: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+$gradient-warm: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+
+// Solid Colors
+$primary: #667eea;
+$secondary: #764ba2;
+$accent: #4facfe;
+$accent-warm: #fa709a;
+
+// Text Colors
+$text-primary: #ffffff;
+$text-secondary: #b3b3b3;
+$text-muted: #666666;
+$text-inverse: #000000;
+
+// Border and Dividers
+$border: #2a2a2b;
+$border-hover: #3a3a3b;
+
+// Status Colors
+$success: #10b981;
+$warning: #f59e0b;
+$error: #ef4444;
+$info: #3b82f6;
+
+// Card and Component Colors
+$card-background: #{$surface};
+$card-border: #{$border};
+$card-hover: #{$surface-elevated};
+
+// Legacy support (for gradual migration)
+$white: #{$text-primary};
+$black: #{$text-secondary};
+$grey: #{$text-muted};
