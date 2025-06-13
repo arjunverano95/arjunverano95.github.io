@@ -82,7 +82,7 @@ const ContactPage = () => {
       }
 
       toast.success(
-        'Message sent successfully! I&apos;ll get back to you soon.',
+        'Message sent successfully! I&#39;ll get back to you soon.',
       );
       setFormData({name: '', email: '', subject: '', message: ''});
     } catch (error) {
@@ -136,7 +136,7 @@ const ContactPage = () => {
             Let&#39;s <span className={styles.titleAccent}>Connect</span>
           </h1>
           <p className={styles.subtitle}>
-            Have a project in mind or just want to chat? I&apos;d love to hear
+            Have a project in mind or just want to chat? I&#39;d love to hear
             from you.
           </p>
           <span className={styles.tagClose}>&lt;/contact&gt;</span>
