@@ -327,7 +327,7 @@ const ContactPage = () => {
                   value={formData.subject}
                   onChange={handleInputChange}
                   className={`${styles.input} ${errors.subject ? styles.error : ''}`}
-                  placeholder="What's this about?"
+                  placeholder="What&#39;s this about?"
                 />
                 {errors.subject && (
                   <span className={styles.errorMessage}>{errors.subject}</span>
