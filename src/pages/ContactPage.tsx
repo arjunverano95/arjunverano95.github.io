@@ -131,7 +131,7 @@ const ContactPage = () => {
         <motion.div className={styles.header} variants={titleVariants}>
           <span className={styles.tagOpen}>&lt;contact&gt;</span>
           <h1 className={styles.title}>
-            Let's <span className={styles.titleAccent}>Connect</span>
+            Let&apos;s <span className={styles.titleAccent}>Connect</span>
           </h1>
           <p className={styles.subtitle}>
             Have a project in mind or just want to chat? I&apos;d love to hear
