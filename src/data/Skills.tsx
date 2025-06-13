@@ -1,5 +1,4 @@
 import React from 'react';
-import {AiFillAndroid} from 'react-icons/ai';
 import {
   FaAws,
   FaHtml5,
@@ -9,22 +8,15 @@ import {
   FaVuejs,
   FaDatabase,
   FaApple,
+  FaAndroid,
+  FaGit,
+  FaJs,
+  FaCode,
+  FaBootstrap,
+  FaCss3,
+  FaDotCircle,
+  FaJsSquare,
 } from 'react-icons/fa';
-import {ImGit} from 'react-icons/im';
-import {IoLogoJavascript} from 'react-icons/io';
-import {
-  SiBootstrap,
-  SiCss3,
-  SiDart,
-  SiDotnet,
-  SiExpo,
-  SiFlutter,
-  SiJquery,
-  SiMysql,
-  SiPostman,
-  SiTypescript,
-} from 'react-icons/si';
-import {VscCode} from 'react-icons/vsc';
 
 interface SkillsType {
   name: string;
@@ -35,12 +27,12 @@ interface SkillsType {
 export const Skills: SkillsType[] = [
   {
     name: 'JavaScript',
-    icon: <IoLogoJavascript />,
+    icon: <FaJsSquare />,
     link: 'https://www.javascript.com/',
   },
   {
     name: 'TypeScript',
-    icon: <SiTypescript />,
+    icon: <FaJs />,
     link: 'https://www.typescriptlang.org/',
   },
   {
@@ -60,12 +52,12 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'Expo',
-    icon: <SiExpo />,
+    icon: <FaReact />,
     link: 'https://expo.dev/',
   },
   {
     name: 'Android',
-    icon: <AiFillAndroid />,
+    icon: <FaAndroid />,
     link: 'https://developer.android.com/',
   },
   {
@@ -75,17 +67,17 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'Flutter',
-    icon: <SiFlutter />,
+    icon: <FaAndroid />,
     link: 'https://flutter.dev/',
   },
   {
     name: 'Dart',
-    icon: <SiDart />,
+    icon: <FaDotCircle />,
     link: 'https://dart.dev/',
   },
   {
     name: 'MySQL',
-    icon: <SiMysql />,
+    icon: <FaDatabase />,
     link: 'https://www.mysql.com/',
   },
   {
@@ -95,12 +87,12 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'C#',
-    icon: <SiDotnet />,
+    icon: <FaDotCircle />,
     link: 'https://learn.microsoft.com/en-us/dotnet/csharp/',
   },
   {
     name: '.NET',
-    icon: <SiDotnet />,
+    icon: <FaDotCircle />,
     link: 'https://dotnet.microsoft.com/en-us/',
   },
   {
@@ -110,7 +102,7 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'CSS',
-    icon: <SiCss3 />,
+    icon: <FaCss3 />,
     link: 'https://www.w3schools.com/css/',
   },
   {
@@ -120,22 +112,22 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'Bootstrap',
-    icon: <SiBootstrap />,
+    icon: <FaBootstrap />,
     link: 'https://getbootstrap.com/',
   },
   {
     name: 'jQuery',
-    icon: <SiJquery />,
+    icon: <FaJs />,
     link: 'https://jquery.com/',
   },
   {
     name: 'Git',
-    icon: <ImGit />,
+    icon: <FaGit />,
     link: 'https://git-scm.com/',
   },
   {
     name: 'VSCode',
-    icon: <VscCode />,
+    icon: <FaCode />,
     link: 'https://code.visualstudio.com/',
   },
   {
@@ -145,7 +137,7 @@ export const Skills: SkillsType[] = [
   },
   {
     name: 'Postman',
-    icon: <SiPostman />,
+    icon: <FaCode />,
     link: 'https://www.postman.com/',
   },
   {
