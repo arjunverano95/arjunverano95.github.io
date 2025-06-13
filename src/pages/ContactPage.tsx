@@ -72,14 +72,14 @@ const ContactPage = () => {
     setIsSubmitting(true);
 
     try {
-      if (formRef.current) {
-        await emailjs.sendForm(
-          Contact.emailService.serviceID,
-          Contact.emailService.templateID,
-          formRef.current,
-          Contact.emailService.publicKey,
-        );
-      }
+      if (!formRef.current) return;
+
+      await emailjs.sendForm(
+        Contact.emailService.serviceID,
+        Contact.emailService.templateID,
+        formRef.current,
+        Contact.emailService.publicKey,
+      );
 
       toast.success(
         'Message sent successfully! I&#39;ll get back to you soon.',
