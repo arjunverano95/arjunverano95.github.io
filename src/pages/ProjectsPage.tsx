@@ -108,7 +108,7 @@ const ProjectsPage = () => {
             whileHover={{scale: 1.05, y: -2}}
             whileTap={{scale: 0.95}}
           >
-            <span>Let's Connect</span>
+            <span>Let&apos;s Connect</span>
             <svg
               width="16"
               height="16"
