@@ -79,7 +79,7 @@ const HomePage = () => {
 
           <motion.div className={styles.textContent} variants={itemVariants}>
             <motion.p className={styles.greeting} variants={itemVariants}>
-              Hello, I&apos;m
+              Hello, I&#39;m
             </motion.p>
             <motion.h1 className={styles.name} variants={itemVariants}>
               <span className={styles.firstName}>{About.firstName}</span>

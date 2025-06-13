@@ -58,7 +58,7 @@ const ExperiencePage = () => {
             Professional <span className={styles.titleAccent}>Journey</span>
           </h1>
           <p className={styles.subtitle}>
-            My career progression and the exciting projects I&apos;ve worked on
+            My career progression and the exciting projects I&#39;ve worked on
             throughout my professional journey
           </p>
           <span className={styles.tagClose}>&lt;/experience&gt;</span>

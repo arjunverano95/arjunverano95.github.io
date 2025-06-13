@@ -133,7 +133,7 @@ const ContactPage = () => {
         <motion.div className={styles.header} variants={titleVariants}>
           <span className={styles.tagOpen}>&lt;contact&gt;</span>
           <h1 className={styles.title}>
-            Let&apos;s <span className={styles.titleAccent}>Connect</span>
+            Let&#39;s <span className={styles.titleAccent}>Connect</span>
           </h1>
           <p className={styles.subtitle}>
             Have a project in mind or just want to chat? I&apos;d love to hear
@@ -147,7 +147,7 @@ const ContactPage = () => {
             <div className={styles.infoCard}>
               <h3 className={styles.infoTitle}>Get in Touch</h3>
               <p className={styles.infoDescription}>
-                I&apos;m always open to discussing new opportunities, creative
+                I&#39;m always open to discussing new opportunities, creative
                 ideas, or potential collaborations.
               </p>
 

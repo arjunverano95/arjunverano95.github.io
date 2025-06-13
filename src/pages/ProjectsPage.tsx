@@ -99,7 +99,7 @@ const ProjectsPage = () => {
         >
           <h3 className={styles.ctaTitle}>Interested in working together?</h3>
           <p className={styles.ctaDescription}>
-            I&apos;m always open to discussing new opportunities and exciting
+            I&#39;m always open to discussing new opportunities and exciting
             projects.
           </p>
           <motion.a
@@ -108,7 +108,7 @@ const ProjectsPage = () => {
             whileHover={{scale: 1.05, y: -2}}
             whileTap={{scale: 0.95}}
           >
-            <span>Let&apos;s Connect</span>
+            <span>Let&#39;s Connect</span>
             <svg
               width="16"
               height="16"
