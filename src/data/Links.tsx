@@ -12,22 +12,22 @@ interface LinksType {
 export const Links: LinksType[] = [
   {
     title: 'GitHub',
-    icon: <ImGithub />,
+    icon: React.createElement(ImGithub),
     link: 'https://github.com/arjunverano95',
   },
   {
     title: 'LinkedIn',
-    icon: <ImLinkedin />,
+    icon: React.createElement(ImLinkedin),
     link: 'https://www.linkedin.com/in/arjun-verano/',
   },
   {
     title: 'Facebook',
-    icon: <FaFacebook />,
+    icon: React.createElement(FaFacebook),
     link: 'https://www.facebook.com/enth.astrarle/',
   },
   {
     title: 'Instagram',
-    icon: <SiInstagram />,
+    icon: React.createElement(SiInstagram),
     link: 'https://www.instagram.com/shiroganedesu/',
   },
 ];
