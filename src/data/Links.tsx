@@ -1,7 +1,4 @@
-import React from 'react';
-import {FaFacebook} from 'react-icons/fa';
-import {ImGithub, ImLinkedin} from 'react-icons/im';
-import {SiInstagram} from 'react-icons/si';
+import {FaFacebook, FaGithub, FaLinkedin, FaInstagram} from 'react-icons/fa';
 
 interface LinksType {
   title: string;
@@ -12,22 +9,22 @@ interface LinksType {
 export const Links: LinksType[] = [
   {
     title: 'GitHub',
-    icon: <ImGithub color="#000000dc" />,
+    icon: FaGithub,
     link: 'https://github.com/arjunverano95',
   },
   {
     title: 'LinkedIn',
-    icon: <ImLinkedin color="#000000dc" />,
+    icon: FaLinkedin,
     link: 'https://www.linkedin.com/in/arjun-verano/',
   },
   {
     title: 'Facebook',
-    icon: <FaFacebook color="#000000dc" />,
+    icon: FaFacebook,
     link: 'https://www.facebook.com/enth.astrarle/',
   },
   {
     title: 'Instagram',
-    icon: <SiInstagram color="#000000dc" />,
+    icon: FaInstagram,
     link: 'https://www.instagram.com/shiroganedesu/',
   },
 ];

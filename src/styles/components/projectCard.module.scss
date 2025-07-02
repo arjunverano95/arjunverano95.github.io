@@ -1,59 +1,244 @@
+@import '../colors';
+@import '../fonts';
+@import '../values';
+
 .projectCard {
-  width: 300px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.8);
+  position: relative;
+  background: $surface;
+  border: 1px solid $border;
+  border-radius: $radius-xl;
+  overflow: hidden;
+  transition: all $transition-base;
+  cursor: pointer;
+  width: 100%;
+  transform-style: preserve-3d;
+
+  &:hover {
+    border-color: $border-hover;
+    box-shadow: $shadow-2xl;
+    background: $surface-elevated;
+  }
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+  background: $background-secondary;
+
+  @media (max-width: $tablet) {
+    height: 220px;
+  }
+
+  @media (max-width: $mobile) {
+    height: 200px;
+  }
+}
+
+.projectImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform $transition-slow;
+
+  .projectCard:hover & {
+    transform: scale(1.1);
+  }
+}
+
+.imageOverlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity $transition-base;
+
+  .projectCard:hover & {
+    opacity: 1;
+  }
+}
+
+.overlayContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: $space-4;
+}
+
+.viewButton {
+  display: flex;
+  align-items: center;
+  gap: $space-2;
+  padding: $space-3 $space-6;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  color: $text-primary;
+  text-decoration: none;
+  border-radius: $radius-lg;
+  font-family: $font-primary;
+  font-size: $text-sm;
+  font-weight: $font-semibold;
+  transition: all $transition-base;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.25);
+    transform: scale(1.05);
+  }
+
+  svg {
+    rotate: 90deg;
+  }
+}
+
+.gradientOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  background: linear-gradient(
+    to top,
+    rgba(26, 26, 27, 0.8) 0%,
+    transparent 100%
+  );
+  pointer-events: none;
+}
+
+.content {
+  padding: $space-6;
+  display: flex;
+  flex-direction: column;
+  gap: $space-4;
+
+  @media (max-width: $tablet) {
+    padding: $space-5;
+    gap: $space-3;
+  }
+
+  @media (max-width: $mobile) {
+    padding: $space-4;
+  }
+}
+
+.title {
+  font-family: $font-primary;
+  font-size: $text-xl;
+  font-weight: $font-semibold;
+  color: $text-primary;
+  line-height: $leading-tight;
+  margin: 0;
+
+  @media (max-width: $tablet) {
+    font-size: $text-lg;
+  }
+}
+
+.description {
+  font-size: $text-sm;
+  color: $text-secondary;
+  line-height: $leading-relaxed;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
   overflow: hidden;
 
-  .imagewrapper {
-    width: 100%;
-    height: 200px;
-    background-color: #eef3f8;
-    border-bottom: 1.5px solid #808080cc;
+  @media (max-width: $tablet) {
+    font-size: $text-xs;
+    -webkit-line-clamp: 4;
+  }
+}
 
-    img {
-      height: 100%;
-      width: 100%;
-      object-fit: cover;
+.actions {
+  display: flex;
+  gap: $space-3;
+  margin-top: auto;
+  padding-top: $space-2;
+
+  @media (max-width: $mobile) {
+    gap: $space-2;
+  }
+}
+
+.actionButton {
+  display: flex;
+  align-items: center;
+  gap: $space-2;
+  padding: $space-2 $space-4;
+  background: transparent;
+  color: $text-secondary;
+  text-decoration: none;
+  border: 1px solid $border;
+  border-radius: $radius;
+  font-family: $font-primary;
+  font-size: $text-xs;
+  font-weight: $font-medium;
+  transition: all $transition-base;
+  flex: 1;
+  justify-content: center;
+
+  &:hover {
+    color: $text-primary;
+    border-color: $border-hover;
+    background: $surface;
+    transform: translateY(-1px);
+  }
+
+  svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  @media (max-width: $mobile) {
+    padding: $space-2 $space-3;
+    font-size: 10px;
+
+    svg {
+      width: 12px;
+      height: 12px;
+    }
+  }
+}
+
+.cardGlow {
+  position: absolute;
+  inset: -2px;
+  background: $gradient-primary;
+  border-radius: inherit;
+  opacity: 0;
+  filter: blur(20px);
+  z-index: -1;
+  transition: opacity $transition-base;
+}
+
+// Enhanced hover states for different project types
+.projectCard {
+  &:nth-child(4n + 1) {
+    &:hover .cardGlow {
+      background: $gradient-primary;
     }
   }
 
-  .content {
-    padding: 15px;
-
-    h2 {
-      font-weight: 500;
-      font-size: 1.4rem;
-      margin-bottom: 0.4rem;
-      white-space: nowrap;
-      overflow: hidden;
-      display: block;
-      text-overflow: ellipsis;
-    }
-
-    p {
-      overflow: hidden;
-      text-overflow: ellipsis;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      line-height: 1.6rem;
+  &:nth-child(4n + 2) {
+    &:hover .cardGlow {
+      background: $gradient-secondary;
     }
   }
 
-  .buttons {
-    margin: 20px 0 10px 0;
-
-    .github,
-    .hosted {
-      text-decoration: none;
-      font-size: 1rem;
-      color: #000;
-      // padding: 4px 7px;
-      border-bottom: 2px solid #b8b8b8;
+  &:nth-child(4n + 3) {
+    &:hover .cardGlow {
+      background: $gradient-accent;
     }
+  }
 
-    .hosted {
-      margin-left: 2rem;
+  &:nth-child(4n + 4) {
+    &:hover .cardGlow {
+      background: $gradient-warm;
     }
   }
 }

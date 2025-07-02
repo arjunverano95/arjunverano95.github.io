@@ -1,114 +1,170 @@
-import React, {useState} from 'react';
-import {IoClose, IoMenu} from 'react-icons/io5';
-import {NavLink} from 'react-router-dom';
+import {motion} from 'framer-motion';
+import React, {useState, useEffect} from 'react';
+import {useLocation, useNavigate} from 'react-router-dom';
 
-import {Contact, NavLinks} from '../data';
+import {NavLinks} from '../data';
 import styles from '../styles/components/navbar.module.scss';
 
 const Navbar = () => {
-  const [isMenuOpen, setIsmenuOpen] = useState(false);
+  const navigate = useNavigate();
+  const location = useLocation();
+  const [isScrolled, setIsScrolled] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  const handleMobileMenuToggle = () => {
-    setIsmenuOpen(!isMenuOpen);
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 20);
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const handleNavigation = (link: string) => {
+    navigate(link);
+    setIsMobileMenuOpen(false);
+  };
+
+  const navVariants = {
+    hidden: {y: -100, opacity: 0},
+    visible: {
+      y: 0,
+      opacity: 1,
+      transition: {
+        duration: 0.6,
+        ease: 'easeOut',
+        staggerChildren: 0.1,
+      },
+    },
+  };
+
+  const itemVariants = {
+    hidden: {y: -20, opacity: 0},
+    visible: {
+      y: 0,
+      opacity: 1,
+      transition: {duration: 0.4, ease: 'easeOut'},
+    },
   };
 
   return (
-    <>
-      <div className={styles.navbar}>
-        <h2
+    <motion.nav
+      className={`${styles.navbar} ${isScrolled ? styles.scrolled : ''}`}
+      variants={navVariants}
+      initial="hidden"
+      animate="visible"
+    >
+      <div className={styles.container}>
+        <motion.div
           className={styles.logo}
-          onClick={() => {
-            location.href = '/';
-          }}
+          variants={itemVariants}
+          whileHover={{scale: 1.05}}
+          whileTap={{scale: 0.95}}
+          onClick={() => navigate('/')}
         >
-          {'arjun.v()'}
-        </h2>
-        <div className={styles.desktopitems}>
-          {NavLinks.map((link) => (
-            <NavLink
-              to={link.linkTo}
-              key={link.title}
-              className={styles.link}
-              style={({isActive}) =>
-                isActive
-                  ? {
-                      background: 'rgb(68 68 68 / 55%)',
-                      borderBottom: '3px solid rgba(40, 40, 40, 0.67',
-                    }
-                  : {color: 'white'}
-              }
-            >
-              {link.title}
-            </NavLink>
-          ))}
-          <a
-            target="_blank"
-            className={`${styles.btncv} ${styles.link}`}
-            href={Contact.cv}
-            rel="noreferrer"
-          >
-            Download CV
-          </a>
-        </div>
-        <div className={styles.mobileview}>
-          <div
-            className={
-              isMenuOpen
-                ? `${styles.mobilemenu} ${styles.active}`
-                : styles.mobilemenu
-            }
-            onClick={handleMobileMenuToggle}
-          >
-            <IoMenu size={40} color="#f7f7f7" />
-          </div>
+          <span className={styles.logoText}>
+            &lt;<span className={styles.logoAccent}>Arjun</span>/&gt;
+          </span>
+        </motion.div>
 
-          <div
-            className={
-              !isMenuOpen
-                ? `${styles.mobilemenu} ${styles.active}`
-                : styles.mobilemenu
-            }
-            onClick={handleMobileMenuToggle}
-          >
-            <IoClose size={40} color="#f7f7f7" />
-          </div>
-        </div>
-      </div>
-      <div
-        className={
-          isMenuOpen
-            ? `${styles.mobileMenuModal} ${styles.active}`
-            : styles.mobileMenuModal
-        }
-      >
-        {NavLinks.map((link) => (
-          <NavLink
-            to={link.linkTo}
-            key={link.title}
-            className={styles.mobileLinks}
-            onClick={handleMobileMenuToggle}
-            style={({isActive}) =>
-              isActive
-                ? {
-                    background: 'rgb(68 68 68 / 55%)',
-                    borderBottom: '3px solid rgba(40, 40, 40, 0.67',
-                  }
-                : {color: 'white'}
-            }
-          >
-            {link.title}
-          </NavLink>
-        ))}
-        <a
-          target="_blank"
-          className={`${styles.mobileBtncv} ${styles.mobileLinks}`}
-          href={Contact.cv}
-          rel="noreferrer"
+        {/* Desktop Navigation */}
+        <motion.div className={styles.desktopNav} variants={itemVariants}>
+          {NavLinks.map((navItem) => (
+            <motion.button
+              key={navItem.link}
+              className={`${styles.navItem} ${
+                location.pathname === navItem.link ? styles.active : ''
+              }`}
+              onClick={() => handleNavigation(navItem.link)}
+              whileHover={{y: -2}}
+              whileTap={{y: 0}}
+            >
+              <span className={styles.navIcon}>
+                <navItem.icon />
+              </span>
+              <span className={styles.navText}>{navItem.title}</span>
+              {location.pathname === navItem.link && (
+                <motion.div
+                  className={styles.activeIndicator}
+                  layoutId="activeIndicator"
+                  initial={false}
+                  transition={{duration: 0.3, ease: 'easeInOut'}}
+                />
+              )}
+            </motion.button>
+          ))}
+        </motion.div>
+
+        {/* Mobile Menu Button */}
+        <motion.button
+          className={styles.mobileMenuButton}
+          variants={itemVariants}
+          onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+          whileTap={{scale: 0.95}}
         >
-          Download CV
-        </a>
+          <span
+            className={`${styles.hamburger} ${
+              isMobileMenuOpen ? styles.open : ''
+            }`}
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+        </motion.button>
+
+        {/* Mobile Navigation */}
+        <motion.div
+          className={`${styles.mobileNav} ${
+            isMobileMenuOpen ? styles.open : ''
+          }`}
+          initial={false}
+          animate={{
+            opacity: isMobileMenuOpen ? 1 : 0,
+            y: isMobileMenuOpen ? 0 : -20,
+            scale: isMobileMenuOpen ? 1 : 0.95,
+          }}
+          transition={{duration: 0.3, ease: 'easeInOut'}}
+        >
+          {NavLinks.map((navItem, index) => (
+            <motion.button
+              key={navItem.link}
+              className={`${styles.mobileNavItem} ${
+                location.pathname === navItem.link ? styles.active : ''
+              }`}
+              onClick={() => handleNavigation(navItem.link)}
+              initial={{opacity: 0, x: -30}}
+              animate={{
+                opacity: isMobileMenuOpen ? 1 : 0,
+                x: isMobileMenuOpen ? 0 : -30,
+              }}
+              transition={{
+                duration: 0.3,
+                delay: isMobileMenuOpen ? index * 0.1 : 0,
+                ease: 'easeOut',
+              }}
+              whileTap={{scale: 0.95}}
+            >
+              <span className={styles.navIcon}>
+                <navItem.icon />
+              </span>
+              <span className={styles.navText}>{navItem.title}</span>
+            </motion.button>
+          ))}
+        </motion.div>
+
+        {/* Mobile Menu Overlay */}
+        {isMobileMenuOpen && (
+          <motion.div
+            className={styles.mobileOverlay}
+            initial={{opacity: 0}}
+            animate={{opacity: 1}}
+            exit={{opacity: 0}}
+            onClick={() => setIsMobileMenuOpen(false)}
+          />
+        )}
       </div>
-    </>
+    </motion.nav>
   );
 };
 

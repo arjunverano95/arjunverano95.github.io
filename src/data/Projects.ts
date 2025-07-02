@@ -44,4 +44,25 @@ export const Projects: ProjectsType[] = [
     hosted:
       'https://drive.google.com/file/d/1693LPLc_buN8RY3KPRb1MXwKGKACqQsl/view?usp=share_link',
   },
+  {
+    title: 'PC BEE ERP',
+    description: `A full-featured ERP web app designed for PC BEE Corp. to manage sales, inventory, job orders, services, and reporting. Built using Next.js, Ant Design, and PostgreSQL, tailored for tech retail operations.`,
+    image: 'https://i.imgur.com/YmsWrgL.jpg',
+    GitHub: '#',
+    hosted: 'https://app.pcbee.services/',
+  },
+  {
+    title: 'Espacio de Clarita Hometel',
+    description: `A responsive marketing and booking platform for Espacio de Clarita Hometel. Features include room availability, booking management, and front-desk admin tools. Built with Next.js, Ant Design, and PostgreSQL.`,
+    image: 'https://i.imgur.com/xTCuep8.jpg',
+    GitHub: '#',
+    hosted: 'https://www.espaciodeclarita.com/',
+  },
+  {
+    title: 'CSPC Payroll',
+    description: `A payroll and HRIS web application for Crop Saver Philippines Corp. Features payroll generation, employee management, loan deductions, timesheets, and reporting. Built with Next.js, Ant Design, and PostgreSQL.`,
+    image: 'https://i.imgur.com/YiiWR3l.jpg',
+    GitHub: '#',
+    hosted: 'https://staging-cspc-payroll.dev.aquilasoftwares.com/',
+  },
 ];

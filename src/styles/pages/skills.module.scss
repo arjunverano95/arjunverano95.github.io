@@ -1,87 +1,258 @@
 @import '../colors';
+@import '../fonts';
 @import '../values';
 
 .skills {
   min-height: 100vh;
-  padding: calc(#{$navbarheight} + 1rem) 0 2rem 0;
-  background-color: $background;
+  padding: calc(#{$navbar-height} + #{$space-8}) $space-4 $space-8;
+  background: $background;
+}
 
-  .wrapper {
-    max-width: 1080px;
-    margin: 20px auto;
-    padding: 0 20px;
-    position: relative;
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: $space-12;
 
-    .skillsopen {
-      font-size: 2rem;
-      font-weight: 600;
-      margin-bottom: 2rem;
-      color: $white;
-      background: $primary;
-      border-radius: 10px;
-      width: fit-content;
-      padding: 8px 10px;
-      font-family: 'Ubuntu Mono', monospace;
-      letter-spacing: 0.5px;
+  @media (max-width: $tablet) {
+    gap: $space-8;
+  }
+}
+
+.header {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.tagOpen,
+.tagClose {
+  font-family: $font-mono;
+  font-size: $text-sm;
+  color: $text-muted;
+  display: block;
+  margin: $space-2 0;
+  letter-spacing: 0.5px;
+
+  @media (max-width: $tablet) {
+    font-size: $text-xs;
+  }
+}
+
+.title {
+  font-family: $font-display;
+  font-size: clamp(#{$text-3xl}, 6vw, #{$text-5xl});
+  font-weight: $font-bold;
+  line-height: $leading-tight;
+  margin: $space-4 0;
+  color: $text-primary;
+}
+
+.titleAccent {
+  background: $gradient-primary;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.subtitle {
+  font-size: $text-lg;
+  color: $text-secondary;
+  line-height: $leading-relaxed;
+  margin-bottom: $space-4;
+
+  @media (max-width: $tablet) {
+    font-size: $text-base;
+  }
+}
+
+.skillsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: $space-6;
+  padding: $space-4 0;
+
+  @media (max-width: $tablet) {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: $space-4;
+  }
+
+  @media (max-width: $mobile) {
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: $space-3;
+  }
+}
+
+.skillCard {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: $space-3;
+  padding: $space-6 $space-4;
+  background: $surface;
+  border: 1px solid $border;
+  border-radius: $radius-xl;
+  text-decoration: none;
+  color: $text-secondary;
+  transition: all $transition-base;
+  cursor: pointer;
+  overflow: hidden;
+  transform-style: preserve-3d;
+
+  &:hover {
+    color: $text-primary;
+    border-color: $border-hover;
+    background: $surface-elevated;
+    box-shadow: $shadow-xl;
+  }
+
+  @media (max-width: $tablet) {
+    padding: $space-4 $space-3;
+    gap: $space-2;
+  }
+}
+
+.skillIcon {
+  font-size: 2.5rem;
+  transition: all $transition-base;
+  z-index: 2;
+  position: relative;
+
+  svg {
+    width: 2.5rem;
+    height: 2.5rem;
+    fill: currentColor;
+  }
+
+  @media (max-width: $tablet) {
+    font-size: 2rem;
+
+    svg {
+      width: 2rem;
+      height: 2rem;
     }
+  }
 
-    .skillsclose {
-      font-size: 2rem;
-      font-weight: 600;
-      margin-top: 3rem;
-      color: $white;
-      background: $primary;
-      border-radius: 10px;
-      width: fit-content;
-      padding: 8px 10px;
-      font-family: 'Ubuntu Mono', monospace;
-      letter-spacing: 0.5px;
-    }
+  @media (max-width: $mobile) {
+    font-size: 1.75rem;
 
-    .skills_content {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 3rem;
-
-      a {
-        font-size: 3.5rem;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 15px;
-        border-radius: 10px;
-        box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
-        transition: 0.5s all ease-in-out !important;
-
-        &:hover {
-          border-radius: 50px;
-          background: $primary;
-          box-shadow: 0 0 6px rgba(111, 125, 252, 0.6);
-        }
-
-        & svg {
-          transition: all 0.3s ease-in-out;
-        }
-
-        &:hover svg {
-          color: $white !important;
-        }
-      }
+    svg {
+      width: 1.75rem;
+      height: 1.75rem;
     }
   }
 }
 
-@media (max-width: 500px) {
-  .skills {
-    .wrapper {
-      .skills_content {
-        gap: 2rem;
+.skillName {
+  font-family: $font-primary;
+  font-size: $text-sm;
+  font-weight: $font-medium;
+  text-align: center;
+  z-index: 2;
+  position: relative;
+  letter-spacing: 0.3px;
 
-        a {
-          font-size: 2.5rem;
-        }
+  @media (max-width: $mobile) {
+    font-size: $text-xs;
+  }
+}
+
+.skillGlow {
+  position: absolute;
+  inset: 0;
+  background: $gradient-primary;
+  opacity: 0;
+  border-radius: inherit;
+  filter: blur(20px);
+  transform: scale(0.8);
+  z-index: 1;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: $space-12;
+  padding: $space-8 0;
+  border-top: 1px solid $border;
+
+  @media (max-width: $tablet) {
+    gap: $space-8;
+    padding: $space-6 0;
+  }
+
+  @media (max-width: $mobile) {
+    flex-direction: column;
+    gap: $space-6;
+    text-align: center;
+  }
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: $space-2;
+}
+
+.statNumber {
+  font-family: $font-display;
+  font-size: $text-4xl;
+  font-weight: $font-bold;
+  background: $gradient-primary;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: $leading-tight;
+
+  @media (max-width: $tablet) {
+    font-size: $text-3xl;
+  }
+}
+
+.statLabel {
+  font-size: $text-sm;
+  color: $text-secondary;
+  font-weight: $font-medium;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+
+  @media (max-width: $tablet) {
+    font-size: $text-xs;
+  }
+}
+
+// Category-specific icon colors (optional enhancement)
+.skillCard {
+  &:nth-child(4n + 1) {
+    &:hover {
+      .skillGlow {
+        background: $gradient-primary;
+      }
+    }
+  }
+
+  &:nth-child(4n + 2) {
+    &:hover {
+      .skillGlow {
+        background: $gradient-secondary;
+      }
+    }
+  }
+
+  &:nth-child(4n + 3) {
+    &:hover {
+      .skillGlow {
+        background: $gradient-accent;
+      }
+    }
+  }
+
+  &:nth-child(4n + 4) {
+    &:hover {
+      .skillGlow {
+        background: $gradient-warm;
       }
     }
   }
