@@ -103,7 +103,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
         <p className={styles.description}>{description}</p>
 
         <div className={styles.actions}>
-          {gitHub && (
+          {gitHub && gitHub !== '#' && (
             <motion.a
               href={gitHub}
               target="_blank"

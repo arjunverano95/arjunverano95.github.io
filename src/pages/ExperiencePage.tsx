@@ -94,19 +94,19 @@ const ExperiencePage = () => {
         >
           <div className={styles.summaryGrid}>
             <div className={styles.summaryItem}>
-              <span className={styles.summaryNumber}>8+</span>
+              <span className={styles.summaryNumber}>10+</span>
               <span className={styles.summaryLabel}>Years Experience</span>
             </div>
             <div className={styles.summaryItem}>
-              <span className={styles.summaryNumber}>{Experience.length}</span>
+              <span className={styles.summaryNumber}>8+</span>
               <span className={styles.summaryLabel}>Companies</span>
             </div>
             <div className={styles.summaryItem}>
-              <span className={styles.summaryNumber}>100+</span>
+              <span className={styles.summaryNumber}>50+</span>
               <span className={styles.summaryLabel}>Projects Delivered</span>
             </div>
             <div className={styles.summaryItem}>
-              <span className={styles.summaryNumber}>15+</span>
+              <span className={styles.summaryNumber}>20+</span>
               <span className={styles.summaryLabel}>Technologies</span>
             </div>
           </div>

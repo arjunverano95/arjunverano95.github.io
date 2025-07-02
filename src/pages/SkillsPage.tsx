@@ -91,7 +91,7 @@ const SkillsPage = () => {
                 whileHover={{rotate: [0, -10, 10, 0]}}
                 transition={{duration: 0.5}}
               >
-                {skill.icon}
+                <skill.icon />
               </motion.div>
               <span className={styles.skillName}>{skill.name}</span>
               <motion.div
@@ -112,11 +112,11 @@ const SkillsPage = () => {
           transition={{duration: 0.6, delay: 0.3}}
         >
           <div className={styles.stat}>
-            <span className={styles.statNumber}>5+</span>
+            <span className={styles.statNumber}>10+</span>
             <span className={styles.statLabel}>Years Experience</span>
           </div>
           <div className={styles.stat}>
-            <span className={styles.statNumber}>{Skills.length}+</span>
+            <span className={styles.statNumber}>20+</span>
             <span className={styles.statLabel}>Technologies</span>
           </div>
           <div className={styles.stat}>

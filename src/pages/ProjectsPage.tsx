@@ -5,8 +5,10 @@ import ProjectCard from '../components/ProjectCard';
 import {Projects} from '../data';
 import styles from '../styles/pages/projects.module.scss';
 import {pageTransition, pageVariants} from '../utils/FramerAnimation';
+import {useNavigate} from 'react-router-dom';
 
 const ProjectsPage = () => {
+  const navigate = useNavigate();
   const containerVariants = {
     hidden: {opacity: 0},
     visible: {
@@ -103,7 +105,8 @@ const ProjectsPage = () => {
             projects.
           </p>
           <motion.a
-            href="#contact"
+            href="#"
+            onClick={() => navigate('/contact')}
             className={styles.ctaButton}
             whileHover={{scale: 1.05, y: -2}}
             whileTap={{scale: 0.95}}

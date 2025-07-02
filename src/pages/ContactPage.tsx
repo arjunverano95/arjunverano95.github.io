@@ -242,7 +242,7 @@ const ContactPage = () => {
                       whileHover={{scale: 1.1, y: -2}}
                       whileTap={{scale: 0.95}}
                     >
-                      {link.icon}
+                      <link.icon />
                     </motion.a>
                   ))}
                 </div>
@@ -289,7 +289,9 @@ const ContactPage = () => {
                     name="name"
                     value={formData.name}
                     onChange={handleInputChange}
-                    className={`${styles.input} ${errors.name ? styles.error : ''}`}
+                    className={`${styles.input} ${
+                      errors.name ? styles.error : ''
+                    }`}
                     placeholder="Your full name"
                   />
                   {errors.name && (
@@ -307,7 +309,9 @@ const ContactPage = () => {
                     name="email"
                     value={formData.email}
                     onChange={handleInputChange}
-                    className={`${styles.input} ${errors.email ? styles.error : ''}`}
+                    className={`${styles.input} ${
+                      errors.email ? styles.error : ''
+                    }`}
                     placeholder="your.email@example.com"
                   />
                   {errors.email && (
@@ -326,7 +330,9 @@ const ContactPage = () => {
                   name="subject"
                   value={formData.subject}
                   onChange={handleInputChange}
-                  className={`${styles.input} ${errors.subject ? styles.error : ''}`}
+                  className={`${styles.input} ${
+                    errors.subject ? styles.error : ''
+                  }`}
                   placeholder="What&#39;s this about?"
                 />
                 {errors.subject && (
@@ -343,7 +349,9 @@ const ContactPage = () => {
                   name="message"
                   value={formData.message}
                   onChange={handleInputChange}
-                  className={`${styles.textarea} ${errors.message ? styles.error : ''}`}
+                  className={`${styles.textarea} ${
+                    errors.message ? styles.error : ''
+                  }`}
                   placeholder="Tell me about your project or just say hello..."
                   rows={6}
                 />

@@ -61,7 +61,9 @@ const ExperienceCard: React.FC<ExperienceCardProps> = ({
 
   return (
     <motion.div
-      className={`${styles.experienceCard} ${index % 2 === 0 ? styles.left : styles.right}`}
+      className={`${styles.experienceCard} ${
+        index % 2 === 0 ? styles.left : styles.right
+      }`}
       variants={cardVariants}
       initial="hidden"
       whileInView="visible"
@@ -200,7 +202,7 @@ const ExperienceCard: React.FC<ExperienceCardProps> = ({
         )}
 
         <motion.div
-          className={styles.cardGlow}
+          //className={styles.cardGlow}
           initial={{opacity: 0}}
           whileHover={{opacity: 1}}
           transition={{duration: 0.3}}

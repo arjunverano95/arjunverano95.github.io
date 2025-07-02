@@ -79,7 +79,9 @@ const Navbar = () => {
               whileHover={{y: -2}}
               whileTap={{y: 0}}
             >
-              <span className={styles.navIcon}>{navItem.icon}</span>
+              <span className={styles.navIcon}>
+                <navItem.icon />
+              </span>
               <span className={styles.navText}>{navItem.title}</span>
               {location.pathname === navItem.link && (
                 <motion.div
@@ -101,7 +103,9 @@ const Navbar = () => {
           whileTap={{scale: 0.95}}
         >
           <span
-            className={`${styles.hamburger} ${isMobileMenuOpen ? styles.open : ''}`}
+            className={`${styles.hamburger} ${
+              isMobileMenuOpen ? styles.open : ''
+            }`}
           >
             <span></span>
             <span></span>
@@ -111,7 +115,9 @@ const Navbar = () => {
 
         {/* Mobile Navigation */}
         <motion.div
-          className={`${styles.mobileNav} ${isMobileMenuOpen ? styles.open : ''}`}
+          className={`${styles.mobileNav} ${
+            isMobileMenuOpen ? styles.open : ''
+          }`}
           initial={false}
           animate={{
             opacity: isMobileMenuOpen ? 1 : 0,
@@ -139,7 +145,9 @@ const Navbar = () => {
               }}
               whileTap={{scale: 0.95}}
             >
-              <span className={styles.navIcon}>{navItem.icon}</span>
+              <span className={styles.navIcon}>
+                <navItem.icon />
+              </span>
               <span className={styles.navText}>{navItem.title}</span>
             </motion.button>
           ))}

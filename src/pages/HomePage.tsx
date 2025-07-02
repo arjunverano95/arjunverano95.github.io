@@ -1,11 +1,13 @@
 import {motion} from 'framer-motion';
 import React from 'react';
 
-import profilePic from '../assets/profile.svg';
+import profilePic from '../assets/profile.png';
 import {About, Links} from '../data';
 import styles from '../styles/pages/home.module.scss';
+import {useNavigate} from 'react-router-dom';
 
 const HomePage = () => {
+  const navigate = useNavigate();
   const containerVariants = {
     hidden: {opacity: 0},
     visible: {
@@ -108,7 +110,9 @@ const HomePage = () => {
                 whileTap={{scale: 0.95}}
                 title={item.title}
               >
-                <span className={styles.socialIcon}>{item.icon}</span>
+                <span className={styles.socialIcon}>
+                  <item.icon />
+                </span>
                 <span className={styles.socialLabel}>{item.title}</span>
               </motion.a>
             ))}
@@ -121,7 +125,7 @@ const HomePage = () => {
               whileTap={{scale: 0.95}}
               onClick={() => {
                 // Add contact navigation or email functionality
-                window.location.href = '#contact';
+                navigate('/contact');
               }}
             >
               <span>Get In Touch</span>
@@ -147,7 +151,7 @@ const HomePage = () => {
               whileTap={{scale: 0.95}}
               onClick={() => {
                 // Add view work navigation
-                window.location.href = '#projects';
+                navigate('/projects');
               }}
             >
               View My Work

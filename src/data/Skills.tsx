@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   FaAws,
   FaHtml5,
@@ -20,129 +19,129 @@ import {
 
 interface SkillsType {
   name: string;
-  icon: React.ReactElement;
+  icon: any;
   link: string;
 }
 
 export const Skills: SkillsType[] = [
   {
     name: 'JavaScript',
-    icon: <FaJsSquare />,
+    icon: FaJsSquare,
     link: 'https://www.javascript.com/',
   },
   {
     name: 'TypeScript',
-    icon: <FaJs />,
+    icon: FaJs,
     link: 'https://www.typescriptlang.org/',
   },
   {
     name: 'React',
-    icon: <FaReact />,
+    icon: FaReact,
     link: 'https://reactjs.org/',
   },
   {
     name: 'Vue.js',
-    icon: <FaVuejs />,
+    icon: FaVuejs,
     link: 'https://vuejs.org/',
   },
   {
     name: 'Node.js',
-    icon: <FaNodeJs />,
+    icon: FaNodeJs,
     link: 'https://nodejs.org/',
   },
   {
     name: 'Expo',
-    icon: <FaReact />,
+    icon: FaReact,
     link: 'https://expo.dev/',
   },
   {
     name: 'Android',
-    icon: <FaAndroid />,
+    icon: FaAndroid,
     link: 'https://developer.android.com/',
   },
   {
     name: 'IOS',
-    icon: <FaApple />,
+    icon: FaApple,
     link: 'https://developer.apple.com/',
   },
   {
     name: 'Flutter',
-    icon: <FaAndroid />,
+    icon: FaAndroid,
     link: 'https://flutter.dev/',
   },
   {
     name: 'Dart',
-    icon: <FaDotCircle />,
+    icon: FaDotCircle,
     link: 'https://dart.dev/',
   },
   {
     name: 'MySQL',
-    icon: <FaDatabase />,
+    icon: FaDatabase,
     link: 'https://www.mysql.com/',
   },
   {
     name: 'SQL Server',
-    icon: <FaDatabase />,
+    icon: FaDatabase,
     link: 'https://www.microsoft.com/en-us/sql-server',
   },
   {
     name: 'C#',
-    icon: <FaDotCircle />,
+    icon: FaDotCircle,
     link: 'https://learn.microsoft.com/en-us/dotnet/csharp/',
   },
   {
     name: '.NET',
-    icon: <FaDotCircle />,
+    icon: FaDotCircle,
     link: 'https://dotnet.microsoft.com/en-us/',
   },
   {
     name: 'HTML',
-    icon: <FaHtml5 />,
+    icon: FaHtml5,
     link: 'https://www.w3schools.com/html/',
   },
   {
     name: 'CSS',
-    icon: <FaCss3 />,
+    icon: FaCss3,
     link: 'https://www.w3schools.com/css/',
   },
   {
     name: 'SASS',
-    icon: <FaSass />,
+    icon: FaSass,
     link: 'https://sass-lang.com/',
   },
   {
     name: 'Bootstrap',
-    icon: <FaBootstrap />,
+    icon: FaBootstrap,
     link: 'https://getbootstrap.com/',
   },
   {
     name: 'jQuery',
-    icon: <FaJs />,
+    icon: FaJs,
     link: 'https://jquery.com/',
   },
   {
     name: 'Git',
-    icon: <FaGit />,
+    icon: FaGit,
     link: 'https://git-scm.com/',
   },
   {
     name: 'VSCode',
-    icon: <FaCode />,
+    icon: FaCode,
     link: 'https://code.visualstudio.com/',
   },
   {
     name: 'Xcode',
-    icon: <FaApple />,
+    icon: FaApple,
     link: 'https://developer.apple.com/xcode/',
   },
   {
     name: 'Postman',
-    icon: <FaCode />,
+    icon: FaCode,
     link: 'https://www.postman.com/',
   },
   {
     name: 'AWS',
-    icon: <FaAws />,
+    icon: FaAws,
     link: 'https://aws.amazon.com/',
   },
 ];

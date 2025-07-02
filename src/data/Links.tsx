@@ -1,31 +1,30 @@
-import React from 'react';
 import {FaFacebook, FaGithub, FaLinkedin, FaInstagram} from 'react-icons/fa';
 
 interface LinksType {
   title: string;
-  icon: React.ReactElement;
+  icon: any;
   link: string;
 }
 
 export const Links: LinksType[] = [
   {
     title: 'GitHub',
-    icon: <FaGithub />,
+    icon: FaGithub,
     link: 'https://github.com/arjunverano95',
   },
   {
     title: 'LinkedIn',
-    icon: <FaLinkedin />,
+    icon: FaLinkedin,
     link: 'https://www.linkedin.com/in/arjun-verano/',
   },
   {
     title: 'Facebook',
-    icon: <FaFacebook />,
+    icon: FaFacebook,
     link: 'https://www.facebook.com/enth.astrarle/',
   },
   {
     title: 'Instagram',
-    icon: <FaInstagram />,
+    icon: FaInstagram,
     link: 'https://www.instagram.com/shiroganedesu/',
   },
 ];
